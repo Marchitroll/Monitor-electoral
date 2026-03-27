@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Monitor Electoral 2026
 
-## Getting Started
+Proyecto presentado para la Hackaton CubePath 2026.
 
-First, run the development server:
+Monitor Electoral 2026 es una plataforma web que centraliza perfiles de candidatos presidenciales, resumen de controversias y fuentes periodisticas verificables en una experiencia visual clara, rapida y mobile-first.
+
+## Demo
+
+- Demo en CubePath: PENDIENTE_DE_URL_PUBLICA
+- Repositorio: https://github.com/USER/monitor-electoral
+
+## Problema que resuelve
+
+La informacion electoral suele estar dispersa, sin contexto y con baja trazabilidad de fuentes. Este proyecto busca:
+
+- Unificar perfiles de candidatos en una sola vista.
+- Mostrar resumenes de controversias en lenguaje claro.
+- Mantener trazabilidad mediante enlaces a medios y fuentes.
+- Mejorar la consulta en movil y desktop con una UI priorizada por lectura.
+
+## Funcionalidades principales
+
+- Listado de candidatos con tarjetas visuales.
+- Busqueda y filtros por calificacion.
+- Pagina de detalle por candidato (SSG con slugs).
+- Resumen de polemicas y listado de fuentes clickeables.
+- Metadatos SEO globales y dinamicos por candidato.
+- robots.txt y sitemap.xml generados por convencion de App Router.
+
+## Stack tecnico
+
+- Next.js 16 (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- ESLint
+- pnpm
+
+## Estructura del proyecto
+
+- app/: rutas y layout principal
+- components/: UI reusable (dashboard, detalle, layout)
+- lib/: logica de datos y tipos
+- public/: imagenes, placeholders y favicon
+- app/data/candidates.json: dataset consolidado por slug
+
+## Ejecucion local
+
+Requisitos:
+
+- Node.js 20+
+- pnpm
+
+Pasos:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Validaciones recomendadas:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+pnpm lint
+pnpm build
+pnpm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Como se ha utilizado CubePath
 
-## Learn More
+Enfoque de despliegue para cumplir la Hackaton CubePath 2026:
 
-To learn more about Next.js, take a look at the following resources:
+1. La aplicacion se despliega en CubePath como servicio web Node.js.
+2. Se publica una URL accesible de demo en produccion.
+3. Se configura la variable de entorno NEXT_PUBLIC_SITE_URL con el dominio final de CubePath para canonical, Open Graph y JSON-LD correctos.
+4. Se valida post-deploy:
+	 - / responde 200
+	 - /robots.txt responde 200
+	 - /sitemap.xml responde 200
+	 - /candidatos/[slug] responde 200
+5. Se registra la participacion mediante issue en el repositorio oficial de la hackaton.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## SEO y rendimiento
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Metadata base y social tags (Open Graph / Twitter).
+- Metadata dinamica por candidato.
+- JSON-LD tipo Person en el detalle de candidato.
+- Imgenes optimizadas con componente Image de Next.js.
+- Priorizacion de imagenes criticas para mejorar LCP.
 
-## Deploy on Vercel
+## Checklist de entrega Hackaton CubePath 2026
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Proyecto desplegado en CubePath.
+- Repositorio publico.
+- README con descripcion, demo, capturas y uso de CubePath.
+- Proyecto funcional al momento de revision.
+- Registro del proyecto via issue oficial:
+	https://github.com/midudev/hackaton-cubepath-2026/issues/new?template=project.yml
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Roadmap corto
+
+- Completar URL publica definitiva de CubePath.
+- Añadir capturas/GIFs reales en esta documentacion.
+- Añadir tests basicos de integracion para flujos criticos.
+
+## Licencia
+
+Uso academico y demostrativo para Hackaton CubePath 2026.

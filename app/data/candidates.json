@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "cand-2026-001",
+    "slug": "alex-gonzales-castillos",
+    "nombre": "Álex Gonzales Castillo",
+    "partido": "Partido Demócrata Verde",
+    "foto": "/candidates/alex-gonzales-castillos.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Declaraciones polémicas en debate 2026: '¡Basta de hueveo!' y propuesta 'cárcel o cementerio' para delincuentes",
+      "Regidores de Podemos Perú lo denunciaron por corrupción en 2019, nombrando funcionarios cuestionados",
+      "Mencionado en investigación fiscal por tráfico de influencias con congresista Edgar Tello (2022), negó vínculos",
+      "Pedido de suspensión como alcalde SJL en 2019 por delegar funciones ilegalmente, JNE no admitió demanda",
+      "Declaraciones xenófobas en 2019: pidió a venezolanos dejar su distrito durante operativo municipal",
+      "Denunció 'campaña perversa' de regidores en su contra, afirmó ser alcalde honesto y transparente"
+    ],
+    "fuentes": [
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2895/09307547"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-alex-gonzales-del-partido-democrata-verde-1065432.aspx"
+      },
+      {
+        "medio": "Expreso",
+        "url": "https://www.expreso.com.pe/politica/alex-gonzales-candidato-del-partido-democrata-verde-deslenguado-durante-debate-presidencial-basta-de-hueveo-jne-elecciones-generales-2026-noticia/1273750/"
+      },
+      {
+        "medio": "TV Perú",
+        "url": "https://www.tvperu.gob.pe/noticias/locales/concejo-de-sjl-decidira-sobre-pedido-de-suspension-contra-alcalde-gonzales"
+      },
+      {
+        "medio": "Expreso Judicial",
+        "url": "https://www.expreso.com.pe/judicial/alcalde-de-sjl-niega-vinculo-con-congresista-edgar-tello-investigado-por-presunto-trafico-de-influencias/787073/"
+      },
+      {
+        "medio": "Exitosa Noticias",
+        "url": "https://exitosanoticias.pe/actualidad/alcalde-sjl-niega-ser-corrupto-denuncia-campana-desprestigio-su-contra-n6032"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/%C3%81lex_Gonzales"
+      }
+    ],
+    "tags": [
+      "Ecologista",
+      "Administrador de Empresas",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-002",
+    "slug": "alfonso-carlos-espa-garces-alvear",
+    "nombre": "Alfonso Carlos Espá Garcés-Alvear",
+    "partido": "SíCreo",
+    "foto": "/candidates/alfonso-carlos-espa-garces-alvear.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Incorporó al cuestionado almirante Jorge Montoya al puesto 5 de su lista al Senado, generando rechazo ciudadano masivo en el sur del país.",
+      "Defendió públicamente a Montoya pese a su historial de 'terruqueo': lo calificó de 'víctima de campaña de desinformación' y dijo no arrepentirse.",
+      "Ciudadanos de Tacna borraron propaganda de SíCreo en protesta por la inclusión de Montoya, bajo la consigna 'No más a los terruqueadores'.",
+      "Espá reconoció una caída en encuestas atribuida al 'efecto Montoya': pasó de 2% a la categoría 'otros' en Ipsos, según sus propias declaraciones.",
+      "Montoya (su candidato al Senado) fue objeto de carta notarial de San Marcos (oct. 2025) y de una demanda por difamación (2022) por vincular sin pruebas a personas e instituciones con Sendero Luminoso."
+    ],
+    "fuentes": [
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/03/03/carlos-espa-insiste-en-defender-a-jorge-montoya-y-asegura-que-fue-victima-de-una-campana-de-desinformacion-hnews-164013"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/elecciones/elecciones-generales-2026-carlos-espa-asegura-que-no-se-arrepiente-de-haber-convocado-al-almirante-jorge-montoya-ultimas-noticia"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2025/12/27/tacna-rechaza-a-carlos-espa-y-jorge-montoya-ciudadanos-borran-muros-con-pintas-de-propaganda-electoral-de-sicreo"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2025/10/21/san-marcos-envia-carta-notarial-a-congresista-jorge-montoya-y-exige-rectificacion-por-terruqueo-sin-pruebas-hnews-1439172"
+      },
+      {
+        "medio": "Servindi",
+        "url": "https://www.servindi.org/actualidad-noticias/16/02/2022/frenar-el-terruqueo-ortiz-demandara-por-difamacion-montoya"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2935/10266270"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Carlos_Esp%C3%A1"
+      }
+    ],
+    "tags": [
+      "Derecha",
+      "Abogado y Periodista",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-003",
+    "slug": "alvaro-paz-de-la-barra",
+    "nombre": "Álvaro Gonzalo Paz de la Barra Freigeiro",
+    "partido": "Fe en el Perú",
+    "foto": "/candidates/alvaro-paz-de-la-barra.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Medidas de protección por violencia familiar mutua con expareja Sofía Franco (marzo 2021)",
+      "Contraloría halló irregularidades en contrataciones por S/24 millones durante su gestión en La Molina",
+      "Propuestas controversiales: cadena perpetua sin debido proceso y estado de excepción por 180 días",
+      "Acusó públicamente a su expareja de alcoholismo, drogadicción y ludopatía; pidió perdón en debate 2026"
+    ],
+    "fuentes": [
+      {
+        "medio": "Poder Judicial del Perú",
+        "url": "https://www.pj.gob.pe/wps/wcm/connect/cortesuperiorlimaestepj/s_csj_lima_este_nuevo/as_inicio/as_imagen_prensa/as_noticias/csjle_n_quinto_juzgado_de_familia_de_ate_otorgo_medias_de_proteccion_a_sofia_franco_y_alcalde_de_la_molina_por_maltrato_fisico_y_psicologico_mutuo"
+      },
+      {
+        "medio": "Contraloría/La República",
+        "url": "https://larepublica.pe/politica/2022/06/14/contraloria-halla-presuntas-irregularidades-en-contrato-millonario-de-la-municipalidad-de-la-molina-alvaro-paz-de-la-barra"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/03/25/alvaro-paz-de-la-barra-pide-perdon-a-sofia-franco-por-acusarla-de-alcoholismo-drogadiccion-y-ludopatia-en-debate-presidencial"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/elecciones/alvaro-paz-de-la-barra-plantea-cadena-perpetua-para-sentenciados-por-corrupcion-el-delincuente-no-puede-tener-debido-proceso-noticia-1673755"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2898/41904418"
+      }
+    ],
+    "tags": [
+      "Derecha conservadora",
+      "Abogado y empresario",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-004",
+    "slug": "antonio-ortiz-villano",
+    "nombre": "Antonio Ortiz Villano",
+    "partido": "Salvemos al Perú",
+    "foto": "/candidates/antonio-ortiz-villano.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+    "Expediente JNE abierto por omitir 3,000 acciones en Advanced Development Company S.A.C. y sentencia civil de S/268,000 en su hoja de vida.",
+    "Omitió también 12,000 acciones de su esposa en CIA Importadora de Rodamientos D&G S.A.C. en declaración jurada ante el JNE.",
+    "Fotografía de reunión con magistrado del JNE Willy Ramírez Chavarry, semanas antes del sorteo que lo proclamó candidato, generó acusaciones de direccionamiento.",
+    "Candidatura definida por lanzamiento de moneda al aire tras empate con Mariano González en primarias internas del partido (13 dic. 2025)."
+  ],
+    "fuentes": [
+    { "medio": "Gestión", "url": "https://gestion.pe/peru/politica/elecciones-2026-abren-expedientes-a-15-candidatos-presidenciales-por-su-hoja-de-vida-noticia/" },
+    { "medio": "El Comercio", "url": "https://elcomercio.pe/politica/elecciones/mariano-gonzalez-asegura-que-hubo-un-direccionamiento-en-elecciones-internas-del-partido-salvemos-al-peru-elecciones-2026-antonio-ortiz-villano-jne-willy-ramirez-ultimas-noticia/" },
+    { "medio": "El Comercio", "url": "https://elcomercio.pe/politica/elecciones/elecciones-2026-mas-de-20-candidatos-a-la-presidencia-y-vicepresidencias-enfrentan-expedientes-por-falsedad-u-omisiones-en-sus-hojas-de-vida-tlcnota-noticia/" },
+    { "medio": "JNE - Voto Informado", "url": "https://votoinformado.jne.gob.pe/hoja-vida/2927/08587486" },
+    { "medio": "La República", "url": "https://larepublica.pe/politica/2025/12/13/ortiz-villano-es-el-candidato-presidencial-del-partido-salvemos-al-peru-tras-ganar-en-lanzamiento-de-moneda-hnews-976131" },
+    { "medio": "Agencia Andina", "url": "https://andina.pe/agencia/noticia-elecciones-2026-conoce-hoja-vida-antonio-ortiz-salvemos-al-peru-1065765.aspx" }
+  ],
+    "tags": [
+      "Empresario",
+      "Gerente General",
+      "Apurímac"
+    ]
+  },
+  {
+    "id": "cand-2026-005",
+    "slug": "armando-joaquin-masse-fernandez",
+    "nombre": "Armando Joaquín Massé Fernández",
+    "partido": "Partido Democrático Federal",
+    "foto": "/candidates/armando-joaquin-masse-fernandez.webp",
+    "calificacion": "sentenciado",
+    "resumen_polemicas": [
+      "Fiscalía investigó a Massé y directivos de APDAYC por lavado de activos, estafa y administración fraudulenta (2013-2019)",
+      "INDECOPI suspendió por un año a Massé y su directorio de APDAYC por irregularidades en gestión de regalías (2019)",
+      "Colegio Médico del Perú inició investigación ético-disciplinaria por promover dióxido de cloro como tratamiento COVID-19 (2020)",
+      "APDAYC pagó más de $17,000 por maestría de Massé, aprobado por consejo directivo que él integraba (2019)",
+      "Propone que Perú no acate disposiciones de la Corte Interamericana de Derechos Humanos y cambie Constitución (2026)",
+      "Reconoció públicamente excesos de APDAYC en cobranzas a artistas y compositores peruanos (2013)"
+    ],
+    "fuentes": [
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Armando_Mass%C3%A9"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-armando-masse-del-partido-democratico-federal-1065632.aspx"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/lima/apdayc-fiscalia-investiga-directivos-lavado-activos-178149-noticia/"
+      },
+      {
+        "medio": "Perú 21",
+        "url": "https://peru21.pe/politica/apdayc-indecopi-suspende-ano-armando-masse-directorio-147390-noticia/"
+      },
+      {
+        "medio": "Salud con Lupa",
+        "url": "https://saludconlupa.com/series/desinformantes/armando-masse-fernandez/"
+      },
+      {
+        "medio": "Ojo Público",
+        "url": "https://ojo-publico.com/2062/grupo-medicos-es-investigado-por-recomendar-curas-falsas"
+      },
+      {
+        "medio": "Correo",
+        "url": "https://diariocorreo.pe/elecciones-2026-armando-masse-promete-nueva-constitucion-no-acatar-cidh"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Médico Cirujano",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-006",
+    "slug": "carlos-gonsalo-alvarez-loayza",
+    "nombre": "Carlos Gonsalo Álvarez Loayza",
+    "partido": "País Para Todos",
+    "foto": "/candidates/carlos-gonsalo-alvarez-loayza.webp",
+    "calificacion": "sentenciado",
+    "resumen_polemicas": [
+      "Omitió declarar proceso judicial por peculado (2002) ante el JNE. Aunque fue absuelto por la Corte Suprema en 2007, críticos cuestionan transparencia en su hoja de vida electoral.",
+      "No declaró vehículo Mazda CX-90 2025 valorizado en S/160,000 propiedad de su empresa. JNE evalúa si constituye falta a normativa de declaración jurada.",
+      "Fiscalía inició en marzo 2025 diligencias para evaluar posible ilegalización del partido País Para Todos, aunque no hay proceso penal personal vigente."
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/02/22/carlos-alvarez-perfil-y-hoja-de-vida-del-candidato-del-partido-pais-para-todos-para-las-elecciones-2026/"
+      },
+      {
+        "medio": "Perú21",
+        "url": "https://peru21.pe/politica/carlos-alvarez-no-tiene-sentencia-sino-una-absolucion-aclara-vocero-de-pais-para-todos/"
+      },
+      {
+        "medio": "Willax",
+        "url": "https://willax.pe/politica/carlos-alvarez-condena-peculado-jne-willax"
+      },
+      {
+        "medio": "Expreso",
+        "url": "https://www.expreso.com.pe/politica/carlos-alvarez-absuelto-de-proceso-judicial-expreso-accedio-a-resolucion-vladimiro-montesinos-jne-elecciones-2026-pais-para-todos-noticia/1254614/"
+      },
+      {
+        "medio": "Diario Correo",
+        "url": "https://diariocorreo.pe/politica/fiscalia-evalua-ilegalizacion-del-partido-de-carlos-alvarez-peru-jne-pais-para-todos-noticia/"
+      }
+    ],
+    "tags": [
+      "Centro/Pragmático",
+      "Comediante/Actor",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-007",
+    "slug": "carlos-ernesto-jaico-carranza",
+    "nombre": "Carlos Ernesto Jaico Carranza",
+    "partido": "Perú Moderno",
+    "foto": "/candidates/carlos-ernesto-jaico-carranza.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigación preliminar por peculado de uso: usó vehículo oficial de Palacio durante licencia sin goce (30-31 dic 2021). Fiscal Andrés Montoya realizó diligencia en Palacio en enero 2022.",
+      "Reunión no autorizada con directivos de Repsol en la Embajada de España (24 ene 2022) durante la crisis del derrame de petróleo en Ventanilla; el propio Castillo desconocía el encuentro.",
+      "Zully Pinchi lo acusó de condicionar su candidatura al Senado a aceptar una relación personal (feb 2026, aeropuerto de Madrid). Jaico niega los hechos y lo califica de campaña de difamación electoral.",
+      "Se desempeñó como Secretario General de Palacio durante el gobierno de Pedro Castillo (nov 2021 – dic 2022), reemplazando a Bruno Pacheco tras el escándalo de los USD 20 mil hallados en su despacho.",
+      "Lista al Senado de Perú Moderno declarada improcedente por el JEE y ratificada por el JNE (enero 2026) por presentación incompleta; Jaico mantuvo su candidatura presidencial."
+    ],
+    "fuentes": [
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/carlos-jaico-pedro-castillo-fiscal-anticorrupcion-abre-investigacion-a-secretario-general-de-palacio-de-gobierno-nndc-noticia"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/judiciales/fiscalia-investiga-al-secretario-general-palacio-de-gobierno-por-presunto-uso-irregular-de-bienes-noticia-1383412"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2022/01/27/pedro-castillo-secretario-del-presidente-se-reunio-con-repsol-fuera-de-palacio-ventanilla"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/02/01/zully-pinchi-acusa-a-carlos-jaico-candidato-por-peru-moderno-de-condicionar-su-postulacion-me-dijo-que-tenia-que-tener-algo-con-el"
+      },
+      {
+        "medio": "Infobae Perú (descargo de Jaico)",
+        "url": "https://www.infobae.com/peru/2026/02/09/carlos-jaico-niega-haber-condicionado-campana-de-zully-pinchi-a-tener-una-relacion-es-un-infundio-solo-dios-puede-ayudarla"
+      },
+      {
+        "medio": "Gestión",
+        "url": "https://gestion.pe/peru/politica/fiscalia-realiza-diligencia-en-palacio-de-gobierno-por-investigacion-contra-carlos-jaico-pedro-castillo-nndc-noticia"
+      },
+      {
+        "medio": "Altavoz",
+        "url": "https://altavoz.pe/politica/carlos-jaico-es-denunciado-por-zully-pinchi-de-condicionar-candidatura-a-cambio-de-salir-con-el-lo-mande-al-diablo"
+      },
+      {
+        "medio": "Diario Correo",
+        "url": "https://diariocorreo.pe/politica/carlos-jaico-que-puede-aportar-el-fujimorismo-a-la-democracia-noticia"
+      }
+    ],
+    "tags": [
+      "Centroderecha",
+      "Abogado",
+      "Ancash"
+    ]
+  },
+  {
+    "id": "cand-2026-008",
+    "slug": "cesar-acuna-peralta",
+    "nombre": "César Acuña Peralta",
+    "partido": "Alianza para el Progreso",
+    "foto": "/candidates/cesar-acuna-peralta.webp",
+    "calificacion": "sentenciado",
+    "resumen_polemicas": [
+      "132 expedientes fiscales en el Ministerio Público desde 2000; 8 carpetas activas incluyendo tráfico de influencias, cohecho y concusión.",
+    "Sentencia firme (Exp. 02974-2023): obligado por el PJ a pagar S/30,000/mes de pensión alimenticia; apeló y se resistió pese a declarar ingresos de S/9.8M/año.",
+    "4 denuncias policiales por violencia familiar interpuestas por su expareja Jenny Gutiérrez Vaisman (2018-2020); APP afirma que procesos penales están archivados.",
+    "Investigación fiscal (abr. 2025) por presunta colusión: S/2M de fondos del GORE La Libertad habrían sido destinados a publicidad con fines electorales.",
+    "Contraloría: Fiscalía Anticorrupción intervino el GORE La Libertad por contratos de S/315.6M adjudicados a empresa vinculada a joven de 23 años.",
+    "Contraloría detectó perjuicio de S/2'306,438 en programa Procompite 2023; 5 funcionarios con indicios de responsabilidad penal; concursos 2023 y 2024 fueron anulados.",
+    "Hermano Óscar Acuña cuenta con orden de detención del Poder Judicial por presunto cobro de sobornos durante la gestión regional.",
+    "Fiscalía investiga 29 contratos en EsSalud vinculados a la familia Horna, con nexo a allegados del entorno de Acuña."
+  ],
+    "fuentes": [
+    {
+      "medio": "LP Derecho",
+      "url": "https://lpderecho.pe/confirman-sentencia-ordena-cesar-acuna-pagar-30-000-soles-cada-mes-pension-alimenticia-favor-menor-hijo-exp-02974-2023"
+    },
+    {
+      "medio": "La República",
+      "url": "https://larepublica.pe/politica/2025/12/28/cesar-acuna-obligado-por-sentencia-a-pagar-alimentos-para-su-menor-hijo-cesar-acuna-peralta-jenny-gutierrez-vaisman-hnews-2609496"
+    },
+    {
+      "medio": "Infobae Perú",
+      "url": "https://www.infobae.com/peru/2025/05/22/fiscalia-investiga-a-cesar-acuna-por-destinar-s-2-millones-de-dinero-publico-para-publicidad-su-objetivo-es-ser-presidente"
+    },
+    {
+      "medio": "Wayka",
+      "url": "https://wayka.pe/contratos-bajo-investigacion-cesar-acuna-entrego-s-315-millones-a-empresa-de-joven-de-23-anos/"
+    },
+    {
+      "medio": "América TV / Canal N",
+      "url": "https://canaln.pe/actualidad/contraloria-detecta-perjuicio-s23-millones-gestion-acuna-n491030"
+    },
+    {
+      "medio": "América TV",
+      "url": "https://www.americatv.com.pe/noticias/actualidad/contraloria-detecta-perjuicio-gestion-cesar-acuna-n516790"
+    },
+    {
+      "medio": "La República",
+      "url": "https://larepublica.pe/politica/2026/03/20/contraloria-acusa-a-6-exfuncionarios-de-cesar-acuna-por-malos-manejos-en-programa-de-s116-millones-alianza-para-el-progreso-contraloria-hnews-861420"
+    },
+    {
+      "medio": "Ministerio Público",
+      "url": "https://www.gob.pe/institucion/mpfn/noticias/647443-fiscalia-inicia-diligencias-por-investigacion-contra-cesar-acuna"
+    }
+  ],
+    "tags": [
+      "Centro-derecha",
+      "Empresario educativo",
+      "La Libertad"
+    ]
+  },
+  {
+    "id": "cand-2026-009",
+    "slug": "charlie-carrasco-salazar",
+    "nombre": "Charlie Carrasco Salazar",
+    "partido": "Partido Demócrata Unido Perú",
+    "foto": "/candidates/charlie-carrasco-salazar.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Declaró que el Congreso es 'ratero y miserable' durante debate presidencial del JNE",
+      "Propuso expulsión de extranjeros indocumentados del país a partir del 28 de julio",
+      "Registra 15 papeletas de tránsito (14 graves, 1 muy grave) y brevete vencido según SAT",
+      "Propone gobierno basado en principios bíblicos, generando debate sobre separación Iglesia-Estado",
+      "Miembros de su partido fueron expulsados por corrupción según declaraciones públicas"
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/video/politica/charlie-carrasco-este-congreso-ratero-y-miserable-nos-robo-el-referendum/db7IvYlu/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/peru/20-candidatos-presidenciales-recibieron-papeletas-de-transito-graves-o-muy-graves-candidatos-con-papeletas-elecciones-presidenciales-cesar-acuna-noticia/"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-aqui-hoja-vida-charlie-carrasco-del-partido-democrata-unido-peru-1065354.aspx"
+      },
+      {
+        "medio": "Perú21",
+        "url": "https://www.facebook.com/peru21/posts/-charlie-carrasco-propone-gobierno-basado-en-principios-b%C3%ADblicos-y-denuncia-pact/1372335364921386/"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2867/40799023"
+      },
+      {
+        "medio": "American Noticias",
+        "url": "https://www.facebook.com/americanoticiasoficial/videos/voto2026-charlie-carrasco-del-partido-dem%C3%B3crata-unido-per%C3%BA-plante%C3%B3-el-cierre-de-/1927394191218027/"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Abogado",
+      "Apurímac"
+    ]
+  },
+  {
+    "id": "cand-2026-010",
+    "slug": "fiorella-molinelli-aristondo",
+    "nombre": "Fiorella Giannina Molinelli Aristondo",
+    "partido": "Fuerza y Libertad",
+    "foto": "/candidates/fiorella-molinelli-aristondo.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Ordenada a juicio oral por colusión agravada en caso aeropuerto Chinchero; Fiscalía pide 10 años de prisión",
+      "Investigada por liderar presunta organización criminal en compras irregulares de EsSalud durante pandemia",
+      "Denuncia en Ica por omisión de funciones y abuso de autoridad en gestión del hospital María Reiche",
+      "Impedimento de salida del país por 12 meses dispuesto por Fiscalía en investigación por colusión"
+    ],
+    "fuentes": [
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/candidata-fiorella-molinelli-acumula-tres-procesos-fiscales-esta-es-la-realidad-de-su-historial-de-denuncias-elecciones-2026-noticia/"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/pj-ordena-enjuiciamiento-fiorella-molinelli-caso-chinchero-fiscalia-pide-10-anos-carcel/"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/02/14/fiorella-molinelli-aristondo-perfil-y-hoja-de-vida-de-la-candidata-de-fuerza-y-libertad/"
+      },
+      {
+        "medio": "Ministerio Público",
+        "url": "https://www.gob.pe/institucion/mpfn/noticias/582313-ministerio-publico-logro-impedimento-de-salida-del-pais-por-12-meses-en-la-investigacion-seguida-contra-fiorella-molinelli-aristondo/"
+      }
+    ],
+    "tags": [
+      "Centrista",
+      "Economista",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-011",
+    "slug": "francisco-diez-canseco-tavara",
+    "nombre": "Francisco Ernesto Diez-Canseco Távara",
+    "partido": "Perú Acción",
+    "foto": "/candidates/francisco-diez-canseco-tavara.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+    "Propuso pena de muerte para presidentes corruptos y retirar a Perú del Sistema Interamericano de Derechos Humanos",
+    "En el 2° debate presidencial calificó al INPE de 'antro de corrupción' y afirmó que sus autoridades se reparten 3,5 millones de soles en coimas ",
+    "Denunció al JNE de intentar invalidar ilegalmente a Perú Acción y amenazó con demandar al presidente del JNE por difamación ",
+    "Acusa sin evidencia documental al gobierno y al MEF de tener un 'pacto corrupto' para favorecer a APP en las elecciones 2026 ",
+    "Su entrevista radial de 2010 fue citada por la FIDH como ejemplo de campaña de estigmatización contra organizaciones de derechos humanos en Perú",
+    "Desde su rol en el Consejo por la Paz, se ha dedicado sistemáticamente a desprestigiar el informe de la Comisión de la Verdad y Reconciliación"
+  ],
+    "fuentes": [
+    { "medio": "Infobae Perú", "url": "https://www.infobae.com/peru/2026/01/11/francisco-diez-canseco-plantea-pena-de-muerte-para-presidentes-corruptos-viven-en-una-carcel-de-lujo-con-nuestros-impuestos/" },
+    { "medio": "Exitosa Noticias", "url": "https://www.exitosanoticias.pe/politica/francisco-diez-canseco-califica-inpe-antro-corrupcion-3-millones-soles-reparten-coima-n171986" },
+    { "medio": "Canal N", "url": "https://canaln.pe/actualidad/diez-canseco-denuncia-intento-jne-invalidar-peru-accion-n486694" },
+    { "medio": "Expreso", "url": "https://www.expreso.com.pe/politica/francisco-diez-canseco-denuncia-fraude-en-marcha-por-comicios-senala-a-app-y-otros-partidos-jne-cesar-acuna-noticia/1267718/" },
+    { "medio": "FIDH (Observatorio de Defensores de DDHH 2010-2011)", "url": "https://www.fidh.org/en/region/americas/peru/PERU-2010-2011" },
+    { "medio": "Andina", "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-francisco-diezcanseco-peru-accion-1065392.aspx" }
+  ],
+    "tags": [
+      "Conservador",
+      "Abogado/Periodista",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-013",
+    "slug": "george-patrick-forsyth-sommer",
+    "nombre": "George Patrick Forsyth Sommer",
+    "partido": "Partido Democrático Somos Perú",
+    "foto": "/candidates/george-patrick-forsyth-sommer.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigación judicial ampliada hasta mayo 2026 por presunta colusión agravada durante su gestión como alcalde de La Victoria (2019-2020)",
+      "Fiscalía detectó 13 comunicaciones telefónicas entre Forsyth y socio de empresas beneficiadas con contratos municipales por S/3 millones",
+      "En 2021, JNE admitió procedimiento sancionador por presunta omisión de sentencia en hoja de vida, aunque luego se descartó condena firme",
+      "Admitió públicamente que fue un error renunciar a la alcaldía de La Victoria antes de tiempo por ambiciones políticas",
+      "Tensiones internas en Somos Perú: tomó distancia del presidente del partido José Jerí calificándolo de 'triste y vergonzoso'"
+    ],
+    "fuentes": [
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/george-forsyth-los-detalles-de-la-decision-del-poder-judicial-que-amplio-la-investigacion-en-su-contra-por-presunta-corrupcion-tlcnota-noticia/"
+      },
+      {
+        "medio": "CanalB",
+        "url": "https://canalb.pe/noticias/judiciales/poder-judicial-extiende-investigacion-contra-forsyth-por-presunta-colusion-en-la-victoria"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/03/25/george-forsyth-propone-reforma-judicial-para-que-ciudadanos-juzguen-casos-de-corrupcion-peruanos-honestos-como-tu/"
+      },
+      {
+        "medio": "Candidatos.pe",
+        "url": "https://candidatos.pe/candidatos/george-patrick-forsyth-sommer-candidato-a-presidente-de-la-republica-del-peru-elecciones-generales-2026/"
+      },
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/politica/actualidad/george-forsyth-arremete-contra-presidente-jose-jeri-tras-reuniones-con-empresario-chino-somos-peru-noticia-1672402"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/03/26/me-ganaron-las-ansias-george-forsyth-admite-que-fue-un-error-renunciar-a-la-alcaldia-de-la-victoria-por-ambiciones-politicas/"
+      }
+    ],
+    "tags": [
+      "Centro-Derecha",
+      "Ex-Futbolista Profesional",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-014",
+    "slug": "herbert-caller-gutierrez",
+    "nombre": "Herbert Caller Gutiérrez",
+    "partido": "Partido Patriótico del Perú",
+    "foto": "/candidates/herbert-caller-gutierrez.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "JEE detectó que omitió declarar sentencia firme de S/84,000 por ejecución de garantías en su hoja de vida electoral",
+      "Informe de fiscalización del JEE Lima Centro 1 advierte información falsa en Declaración Jurada de Hoja de Vida",
+      "Denuncia ciudadana por préstamo personal no registrado como aporte político ante la ONPE",
+      "Expediente judicial N.° 02541-2020 permanece en estado de ejecución desde 2022 sin ser declarado",
+      "Riesgo de exclusión electoral según Ley de Organizaciones Políticas por falsedad de información"
+    ],
+    "fuentes": [
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/01/27/elecciones-2026-informe-del-jee-advierte-que-candidato-presidencial-del-partido-patriotico-del-peru-habria-declarado-informacion-falsa-hnews-2196207"
+      },
+      {
+        "medio": "Chinapolo Dominical",
+        "url": "https://chinapolodominical.pe/politica/elecciones-2026/candidato-presidencial-en-la-mira-del-jee-por-omitir-sentencia-de-s-84000-7717/"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-revisa-hoja-vida-herbert-caller-del-partido-patriotico-del-peru-1065346.aspx"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/elecciones/herbert-caller-candidato-presidencial-del-ppp-plantea-trasladar-cinco-ministerios-a-regiones-noticia-1671255"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Ex oficial de Marina",
+      "Cusco"
+    ]
+  },
+  {
+    "id": "cand-2026-015",
+    "slug": "jorge-nieto-montesinos",
+    "nombre": "Jorge Nieto Montesinos",
+    "partido": "Partido del Buen Gobierno",
+    "foto": "/candidates/jorge-nieto-montesinos.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigación fiscal abierta por presunto lavado de activos: recibió 120 mil dólares de constructora OAS (caso Chalinas Verdes)",
+      "Incremento patrimonial de 4 millones de soles en 2016 cuestionado por Fiscalía durante investigación en curso",
+      "Admitió omitir ahorros bancarios en declaración jurada cuando fue ministro de Cultura en 2016",
+      "Vinculado a asesorías externas con cobros fuera de canales oficiales durante campaña de Somos Perú 2014",
+      "Cinco candidatos de su partido tienen sentencias judiciales vigentes por delitos como malversación y usurpación"
+    ],
+    "fuentes": [
+      {
+        "medio": "La Razón",
+        "url": "https://larazon.pe/fiscalia-investiga-a-jorge-nieto-por-presunto-delito-de-lavado-de-activos/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/justicia/caso-odebrecht-y-oas-fiscalia-formaliza-investigacion-contra-susana-villaran-marisa-glave-y-jorge-nieto-montesinos-ministerio-publico-jaime-salinas-municipalidad-de-lima-mml-ultimas-noticia/"
+      },
+      {
+        "medio": "Willax",
+        "url": "https://willax.pe/politica/jorge-nieto-caso-chalinas-verdes-patrimonio-sentenciados-willax"
+      },
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/politica/elecciones/jorge-nieto-esta-es-la-hoja-de-vida-del-candidato-presidencial-registrada-ante-el-jne-noticia-1668790"
+      },
+      {
+        "medio": "El Peruano",
+        "url": "https://elperuano.pe/noticia/290954-elecciones-2026-conoce-el-plan-de-gobierno-de-jorge-nieto-montesinos"
+      },
+      {
+        "medio": "Trome",
+        "url": "https://trome.com/actualidad/politica/jorge-nieto-montesinos-las-propiedades-del-candidato-presidencial-por-el-partido-del-buen-gobierno-elecciones-generales-2026-noticia/"
+      }
+    ],
+    "tags": [
+      "Centro-Derecha",
+      "Sociólogo",
+      "Arequipa"
+    ]
+  },
+  {
+    "id": "cand-2026-016",
+    "slug": "jose-daniel-williams-zapata",
+    "nombre": "José Daniel Williams Zapata",
+    "partido": "Avanza País - Partido de Integración Social",
+    "foto": "/candidates/jose-daniel-williams-zapata.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Vinculado al caso Masacre de Accomarca (1985) por presunto encubrimiento según testigo sentenciado",
+      "Denunciado por presunta colusión en contratos de buffet del Congreso (2023)",
+      "Cuestionado por operación del cártel de Tijuana en Piura durante su jefatura militar (2004-2005)"
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/02/27/jose-williams-zapata-perfil-patrimonio-y-trayectoria-del-candidato-presidencial-de-avanza-pais"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/02/10/jee-inicia-procedimiento-sancionador-que-podria-excluir-a-jose-williams-por-omitir-sentencia-en-su-hoja-de-vida-hnews-663820"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/elecciones/jee-de-lima-centro-1-archiva-proceso-contra-jose-williams-zapata-por-presunta-omision-en-su-hoja-de-vida-ultimas-noticia"
+      },
+      {
+        "medio": "Wayka",
+        "url": "https://wayka.pe/la-masacre-de-accomarca-guarda-el-nombre-del-congresista-jose-williams-zapata"
+      },
+      {
+        "medio": "Servindi",
+        "url": "https://www.servindi.org/seccion-derechos-humanos/18/12/2025/jose-williams-zapata-y-la-masacre-de-accomarca"
+      },
+      {
+        "medio": "Panamericana",
+        "url": "https://panamericana.pe/politica/374158-presentan-denuncia-penal-jose-williams-presunta-colusion-buffets-congreso"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Williams"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Militar retirado (General del Ejército)",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-017",
+    "slug": "jose-leon-luna-galvez",
+    "nombre": "José León Luna Gálvez",
+    "partido": "Podemos Perú",
+    "foto": "/candidates/jose-leon-luna-galvez.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Fiscalía pide 22 años y 8 meses por liderar org. criminal 'Los Gángsters de la Política' (caso ONPE/CNM, 2025).",
+      "Investigado por lavado de activos: habría recibido US$480K de OAS y US$200K de Odebrecht para campaña de Castañeda 2014.",
+      "PJ ordenó arresto domiciliario de 36 meses en 2020 por org. criminal; levantado en 2021 al asumir como congresista.",
+      "PJ ordenó levantar secreto bancario (ene. 2026) en proceso de extinción de dominio por 16 años de operaciones.",
+      "Universidad Telesup perdió licencia SUNEDU (2019) por no cumplir ninguna condición básica de calidad; acumula 40+ sanciones INDECOPI.",
+      "Tribunal de Honor del Pacto Ético Electoral amonestó a Luna (mar. 2026) por videos ofensivos contra candidatos en TikTok.",
+      "Programa 'Panorama' reveló que su equipo de campaña entregó dinero en efectivo a ciudadanos bajo el lema 'Pepe sí cumple' (mar. 2026).",
+      "Telesup fue incluida como persona jurídica imputada en la investigación por organización criminal y lavado de activos (2023-2024)."
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2025/08/07/jose-luna-acusado-de-encabezar-organizacion-criminal-fiscalia-formaliza-pedido-de-mas-de-22-anos-contra-el-lider-de-podemos-peru/"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2025/11/20/jose-luna-galvez-no-se-salva-de-pedido-de-mas-de-22-anos-de-prision-en-su-contra-pj-rechaza-pedido-para-anular-caso-podemos-peru/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/ordenan-levantar-secreto-bancario-de-jose-luna-galvez-cual-es-el-estado-de-su-proceso-de-extincion-de-dominio-podemos-peru-odebrecht-tlcnota-noticia/"
+      },
+      {
+        "medio": "Perú21",
+        "url": "https://peru21.pe/politica/jose-luna-galvez-fiscalia-lo-acusa-por-control-ilegal-de-onpe-y-cnm/"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/judiciales/pj-iniciara-en-diciembre-audiencia-de-control-de-acusacion-fiscal-contra-jose-luna-y-otros-por-presunta-inscripcion-irregular-de-podemos-peru-noticia-1650097"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/elecciones/jose-luna-galvez-revelan-que-equipo-de-campana-del-candidato-de-podemos-peru-entrega-dinero-a-la-gente-por-supuestos-desafios-en-la-calle-elecciones-2026-ultimas-noticia/"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/01/29/pj-ordena-levantar-secreto-bancario-de-jose-luna-galvez-por-nexos-con-red-de-luis-castaneda-lossio-hnews-1544134"
+      },
+      {
+        "medio": "Diario Correo",
+        "url": "https://diariocorreo.pe/politica/jose-luna-galvez-uso-falsos-aportantes-y-a-telesup-para-ocultar-aportes-a-la-campana-de-luis-castaneda-segun-la-fiscalia-nndc-noticia/"
+      },
+      {
+        "medio": "Convoca.pe",
+        "url": "https://convoca.pe/agenda-propia/congresista-luna-dueno-de-universidad-con-31-sanciones-de-indecopi-presidira-la"
+      },
+      {
+        "medio": "Wikipedia (perfil judicial consolidado)",
+        "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luna_G%C3%A1lvez"
+      }
+    ],
+    "tags": [
+      "Centro-populista",
+      "Empresario/Economista",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-018",
+    "slug": "keiko-fujimori",
+    "nombre": "Keiko Sofía Fujimori Higuchi",
+    "partido": "Fuerza Popular",
+    "foto": "/candidates/keiko-fujimori.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Caso Cócteles: investigada por lavado de activos por aportes ilegales de Odebrecht ($1.2M). Archivado por TC Sentencia 185/2025.",
+      "Cumplió 13 meses de prisión preventiva (2018-2019). Liberada por decisión del Tribunal Constitucional.",
+      "Fiscalía solicitó 35 años de prisión en julio 2025. Juicio anulado por Tribunal Constitucional.",
+      "Registra aproximadamente 69 investigaciones fiscales en delitos financieros y electorales según fuentes periodísticas.",
+      "Nueva investigación por lavado de activos en campaña electoral abierta en noviembre 2025.",
+      "Detenida preventivamente en 3 ocasiones durante investigación del caso Cócteles.",
+      "Acusada de liderar presunta organización criminal para financiamiento ilegal de campañas 2011 y 2016.",
+      "Poder Judicial ordenó archivo definitivo del caso Cócteles en enero 2026 tras fallo del TC."
+    ],
+    "fuentes": [
+      {
+        "medio": "Tribunal Constitucional del Perú",
+        "url": "https://www.tc.gob.pe/jurisprudencia/2025/02109-2024-HC.pdf"
+      },
+      {
+        "medio": "Poder Judicial del Perú",
+        "url": "https://www.pj.gob.pe/wps/wcm/connect/cortesuprema/s_cortesuprema_home/as_inicio/as_enlaces_destacados/as_imagen_prensa/as_notas_noticias/2025/cs_n-juicio-oral-fujimori-13012025"
+      },
+      {
+        "medio": "AP News",
+        "url": "https://apnews.com/article/peru-odebrecht-brasil-construccion-keiko-fujimori-tribunal-lavado-540cc27edb4d733267ebc628dce4980b"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/01/14/juez-acata-fallo-del-tc-y-archiva-de-forma-definitiva-el-caso-cocteles-contra-keiko-fujimori-y-todo-fuerza-popular"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/claves-sentencia-tc-anula-imputaciones-caso-cocteles-contra-keiko-fujimori-lavado-de-activos-y-organizacion-criminal"
+      },
+      {
+        "medio": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/noticias-america-latina-46052747"
+      },
+      {
+        "medio": "DW Deutsch Welle",
+        "url": "https://www.dw.com/es/justicia-de-per%C3%BA-archiva-juicio-a-keiko-fujimori-por-lavado-de-activos/a-75497501"
+      },
+      {
+        "medio": "IDEHPUCP - Observatorio Anticorrupción",
+        "url": "https://idehpucp.pucp.edu.pe/observatorio-anticorrupcion/casos/financiamiento-fuerza-popular/"
+      },
+      {
+        "medio": "Ojo Público",
+        "url": "https://ojo-publico.com/sala-del-poder/lava-jato-barata-confirma-entrega-us12-millones-campana-keiko-fujimori"
+      }
+    ],
+    "tags": [
+      "Derecha",
+      "Política",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-019",
+    "slug": "luis-fernando-olivera-vega",
+    "nombre": "Luis Fernando Olivera Vega",
+    "partido": "Frente de la Esperanza 2021",
+    "foto": "/candidates/luis-fernando-olivera-vega.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigado por colusión agravada en caso Odebrecht/Carretera Interoceánica Sur. PJ rechazó su pedido de apartamiento en marzo 2024.",
+      "Arrestado en enero 2024 por querella de difamación de gobernadora de Moquegua. Liberado el mismo día tras audiencia virtual.",
+      "Acusó a César Acuña de nexos con narcotráfico en debate 2026. APP presentó denuncia penal. Olivera reportó amenazas de muerte.",
+      "Denuncia constitucional en 2004 por omisión de denuncia y usurpación de funciones durante caso Vladivideos.",
+      "Difundió cifra falsa de 200 mil delincuentes venezolanos. Consejo de Prensa Peruana la calificó como 40 veces mayor a la realidad.",
+      "Propuesta polémica 'Ley Patriota' generó críticas por su contenido en campaña electoral 2026."
+    ],
+    "fuentes": [
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/justicia/fernando-olivera-pj-rechaza-su-pedido-para-apartarlo-de-la-investigacion-por-el-caso-odebrecht-ultimas-noticia/"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/judiciales/fernando-olivera-pide-al-pj-archivar-delito-de-colusion-agravada-en-investigacion-por-caso-interoceanica-noticia-1499134"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/02/22/fernando-olivera-perfil-y-hoja-de-vida-del-candidato-del-partido-frente-de-la-esperanza-para-las-elecciones-2026/"
+      },
+      {
+        "medio": "Diario El Sol Cusco",
+        "url": "https://diarioelsolcusco.pe/2026/03/26/fernando-olivera-dice-que-ha-recibido-amenazas-de-muerte-y-responsabiliza-a-cesar-acuna-ante-cualquier-atentado/"
+      },
+      {
+        "medio": "Prensa Regional",
+        "url": "https://prensaregional.pe/fernando-olivera-de-procesado-en-un-caso-de-corrupcion-a-pretender-ser-abanderado-anticorrupcion/"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-aqui-hoja-vida-fernando-olivera-del-frente-de-esperanza-2021-1065647.aspx"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Exministro de Justicia",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-020",
+    "slug": "maria-soledad-perez-tello-de-rodriguez",
+    "nombre": "María Soledad Pérez Tello de Rodríguez",
+    "partido": "Primero La Gente",
+    "foto": "/candidates/maria-soledad-perez-tello-de-rodriguez.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "JEE alertó que omitió declarar sentencia laboral de pago S/746 a Profuturo AFP en hoja de vida",
+      "Dio dato falso sobre aborto terapéutico verificado por IDL Reporteros",
+      "Destituyó a procuradora Ampuero que investigaba a PPK por Odebrecht; acusada de traición a la patria",
+      "Su partido Primero La Gente tuvo escándalo por firmas falsas en inscripción ante JNE",
+      "Crisis interna por denuncias de manejo irregular de fondos en su partido",
+      "Escándalo por asignación de S/464,000 a ex-canal de TV por miembro de su partido"
+    ],
+    "fuentes": [
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/03/08/marisol-perez-tello-habria-omitido-informacion-sobre-sentencia-laboral-alerta-el-jee-hnews-214376"
+      },
+      {
+        "medio": "IDL Reporteros",
+        "url": "https://www.idl-reporteros.pe/es-falso-el-dato-de-marisol-perez-tello-acerca-de-que-legislo-a-favor-del-aborto-terapeutico-cuando-fue-ministra-de-justicia"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/congreso/video-yeni-vilcatoma-marisol-perez-tello-ha-cometido-traicion-a-la-patria-noticia-1079398"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2025/05/16/marisol-perez-tello-lleva-a-fiscalia-caso-de-firmas-falsas-en-primero-la-gente-y-acusa-a-reniec-de-negligencia"
+      },
+      {
+        "medio": "Canal B",
+        "url": "https://canalb.pe/noticias/actualidad/denuncias-por-manejo-de-fondos-golpean-a-primero-la-gente-en-plena-campaa"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/02/04/marisol-perez-tello-dice-que-se-evalua-la-expulsion-de-miguel-del-castillo-por-asignar-s-464-mil-a-su-excanal"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2931/07867789"
+      }
+    ],
+    "tags": [
+      "Centro",
+      "Abogada y Notaria",
+      "Tacna"
+    ]
+  },
+  {
+    "id": "cand-2026-021",
+    "slug": "mario-vizcarra-cornejo",
+    "nombre": "Mario Enrique Vizcarra Cornejo",
+    "partido": "Perú Primero",
+    "foto": "/candidates/mario-vizcarra-cornejo.webp",
+    "calificacion": "sentenciado",
+    "resumen_polemicas": [
+      "Condenado en 2005 por peculado por cobrar doble remuneración cuando presidía el CTAR Moquegua; sentencia firme con pena privativa de libertad suspendida.",
+      "Impugnaciones electorales: JEE excluyó su candidatura al Senado y su fórmula presidencial por condena por corrupción; JNE lo habilitó al considerar que ya cumplió pena y fue rehabilitado.",
+      "Investigado por colusión agravada en el caso 'Los Saqueadores de Ilabaya'; Poder Judicial embargó preventivamente bienes por S/1.36 millones como medida cautelar.",
+      "Cuestionado por supuesta omisión en su hoja de vida de vínculos con la empresa CyM Vizcarra, investigada por presunta colusión en obras públicas.",
+      "Polémica por el pago de la reparación civil derivada de la condena: Informaciones señalan que el Poder Judicial declaró prescrita la deuda, generando debate sobre el cumplimiento efectivo de la sanción."
+    ],
+    "fuentes": [
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/politica/elecciones/jne-sobre-mario-vizcarra-los-argumentos-que-permitieron-su-candidatura-presidencial-noticia-1672498"
+      },
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/politica/elecciones/jee-declaro-improcedente-la-candidatura-de-mario-vizcarra-al-senado-por-condena-por-peculado-noticia-1671187"
+      },
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/peru/actualidad/tacna-embargan-propiedades-de-mario-vizcarra-y-cesar-vizcarra-por-presunto-caso-de-colusion-agravada-noticia-1674713"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/justicia/mario-vizcarra-y-la-investigacion-por-colusion-que-derivo-en-el-embargo-preventivo-de-su-inmueble-tlc-nota-noticia"
+      },
+      {
+        "medio": "Altavoz",
+        "url": "https://altavoz.pe/politica/mario-vizcarra-registra-una-condena-por-corrupcion"
+      },
+      {
+        "medio": "Actualidad Penal",
+        "url": "https://actualidadpenal.pe/noticia/jee-excluye-a-mario-vizcarra-de-la-carrera-al-senado-por-una-condena-de-peculado/a70eca6e-7a6d-4269-accd-b47e3221aeb2/1"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/01/02/mario-vizcarra-pago-o-no-la-reparacion-civil-de-su-sentencia-por-corrupcion-pj-la-declaro-prescrita"
+      }
+    ],
+    "tags": [
+      "Centro-derecha",
+      "Ingeniero industrial",
+      "Moquegua"
+    ]
+  },
+  {
+    "id": "cand-2026-022",
+    "slug": "mesias-antonio-guevara-amasifuen",
+    "nombre": "Mesías Antonio Guevara Amasifuen",
+    "partido": "Partido Morado",
+    "foto": "/candidates/mesias-antonio-guevara-amasifuen.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Fiscal de la Nación lo denunció ante Comisión de Ética del Congreso en 2014 por no respetar debido proceso en investigaciones de Comisión Áncash",
+      "Presidente del Poder Judicial criticó en 2014 citaciones de su comisión a jueces por lesionar equilibrio de poderes constitucionales",
+      "Declaraciones controversiales en Debate Presidencial 2026 usando términos coloquiales ('papear', 'ghostear') contra Keiko Fujimori",
+      "Conflicto interno en Acción Popular 2023: bancada no lo reconoció como representante del partido antes de su renuncia"
+    ],
+    "fuentes": [
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-fiscal-de-nacion-denuncia-a-congresista-guevara-ante-comision-etica-528500.aspx"
+      },
+      {
+        "medio": "Poder Judicial del Perú",
+        "url": "https://www.pj.gob.pe/wps/wcm/connect/cortesuprema/s_cortes_suprema_home/as_inicio/as_enlaces_destacados/as_imagen_prensa/as_notas_noticias/2014/cs_n_exhortomdoza_21122014"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/03/26/mesias-guevara-del-partido-morado-le-dice-a-keiko-fujimori-que-la-va-a-papear-despues-que-ella-lo-ghostea/"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/03/25/debate-presidencial-2026-keiko-fujimori-le-dice-a-mesias-guevera-que-lo-va-a-ghostear-y-este-responde-que-la-va-a-papear-hnews-1017450"
+      },
+      {
+        "medio": "Expreso",
+        "url": "https://www.expreso.com.pe/politica/bancada-de-accion-popular-no-reconoce-a-mesias-guevara-como-representante-del-partido/918731/"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mes%C3%ADas_Guevara"
+      }
+    ],
+    "tags": [
+      "Centro-Progresista",
+      "Ingeniero Electrónico",
+      "Lambayeque"
+    ]
+  },
+  {
+    "id": "cand-2026-023",
+    "slug": "pablo-alfonso-lopez-chau-nava",
+    "nombre": "Pablo Alfonso López-Chau Nava",
+    "partido": "Ahora Nación",
+    "foto": "/candidates/pablo-alfonso-lopez-chau-nava.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Acusado por Fiscalía de colusión y peculado doloso por contrataciones irregulares cuando era rector de la UNI. Fiscalía solicita 5 años de cárcel.",
+      "Denunciado en 2012 por presunto lavado de activos durante su gestión como director del BCRP (2006-2012). Investigación recién revelada.",
+      "Reconoció haber estado preso en los años 70; afirma que fue detención política y salió por amnistía."
+    ],
+    "fuentes": [
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/caso-alfonso-lopez-chau-cual-es-el-estado-de-la-acusacion-contra-candidato-presidencial-por-presunta-colusion-agravada-elecciones-2026tlcnota-noticia"
+      },
+      {
+        "medio": "Peru21",
+        "url": "https://peru21.pe/investigacion/alfonso-lopez-chau-jueza-retrasa-inicio-de-juicio-por-corrupcion-elecciones-2026"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2025/07/17/alfonso-lopez-chau-en-la-mira-de-la-fiscalia-es-investigado-por-presuntamente-beneficiar-a-trabajadora-en-la-uni"
+      },
+      {
+        "medio": "La Razón",
+        "url": "https://larazon.pe/alfonso-lopez-chau-fue-denunciado-por-lavado-de-activos"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2980/25331980"
+      }
+    ],
+    "tags": [
+      "Izquierda",
+      "Economista",
+      "Ex-rector UNI",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-024",
+    "slug": "paul-davis-jaimes-blanco",
+    "nombre": "Paul Davis Jaimes Blanco",
+    "partido": "Progresemos",
+    "foto": "/candidates/paul-davis-jaimes-blanco.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Denunciado por violencia familiar y agresión física a su hermana en Comisaría del Rímac (2022)",
+      "Denunciado por amenaza con arma de fuego a una vecina según documentos policiales (2022)",
+      "Nombramiento controversial como Secretario General del MIDAGRI generó moción de interpelación",
+      "El candidato niega las acusaciones y se defendió en entrevista con Rosa María Palacios"
+    ],
+    "fuentes": [
+      {
+        "medio": "Diario Correo",
+        "url": "https://diariocorreo.pe/politica/midagri-funcionario-tiene-dos-denuncias-policiales-noticia"
+      },
+      {
+        "medio": "Wapa.pe",
+        "url": "https://wapa.pe/actualidad/2022/03/16/paul-davis-jaimes-blanco-secretario-general-ministerio-desarrollo-agrario-riego-midagri-denuncias-violencia-familiar-amenaza-arma-fuego-27278"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2967/40139245"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-revisa-hoja-vida-paul-jaimes-progresemos-1065563.aspx"
+      },
+      {
+        "medio": "La República - Sin Guion",
+        "url": "https://www.facebook.com/larepublicape/videos/singuion-rosa-mar%C3%ADa-palacios-entrevista-a-paul-davis-jaimes-candidato-presidenci/1792422264794383"
+      }
+    ],
+    "tags": [
+      "Ecologista",
+      "Abogado",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-025",
+    "slug": "pitter-enrique-valderrama-penata",
+    "nombre": "Pitter Enrique Valderrama Peñata",
+    "partido": "Partido Aprista Peruano (APRA)",
+    "foto": "/candidates/pitter-enrique-valderrama-penata.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Acusado en 2012 de hurto de laptop y televisor por excompañero de vivienda; caso no pasó de ocurrencia policial sin denuncia formal",
+      "Nombramiento declarado ilegal por Comité Ejecutivo del APRA en 2021 por no ser elegido en Congreso Partidario",
+      "Declaraciones explosivas contra César Acuña llamándolo líder de 'mafia' que captura EsSalud",
+      "Conflictos públicos con figuras históricas del APRA como Jorge Del Castillo sobre problemas internos del partido",
+      "Resolución JNE 2025 señaló omisión de huella dactilar del índice en documentación electoral"
+    ],
+    "fuentes": [
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2025/12/01/enrique-valderrama-candidato-del-apra-fue-acusado-en-el-hurto-de-una-laptop-y-un-televisor-en-el-2012-hnews-11717"
+      },
+      {
+        "medio": "Sol TV Perú",
+        "url": "https://soltvperu.com/apra-declaran-ilegal-supuesto-nombramiento-de-pitter-valderrama-pena/"
+      },
+      {
+        "medio": "PeruCheck",
+        "url": "https://perucheck.pe/apra"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://x.com/Agencia_Andina/status/2030377747118276885"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2025/12/02/enrique-valderrama-candidato-presidencial-del-partido-aprista-fue-acusado-de-hurtar-tv-y-laptop-en-2012/"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Enrique_Valderrama"
+      }
+    ],
+    "tags": [
+      "Centro-izquierda",
+      "Abogado/Periodista",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-026",
+    "slug": "rafael-jorge-belaunde-llosa",
+    "nombre": "Rafael Jorge Belaunde Llosa",
+    "partido": "Libertad Popular",
+    "foto": "/candidates/rafael-jorge-belaunde-llosa.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Cuestionado por 'puerta giratoria': vínculos con mineras antes de ser ministro de Energía y Minas en 2020.",
+      "Apoyó a Keiko Fujimori en 2021 y luego la criticó, generando cuestionamientos por contradicción política.",
+      "Atentado de diciembre 2025 en Cerro Azul: dudas sobre autenticidad por falta de evidencia fílmica y selfie polémica.",
+      "Nombramiento ministerial cuestionado por falta de experiencia sectorial y parentesco con premier Cateriano."
+    ],
+    "fuentes": [
+      {
+        "medio": "Jurado Nacional de Elecciones",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2933/10219647"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Rafael_Bela%C3%BAnde_Llosa"
+      },
+      {
+        "medio": "Ojo Público",
+        "url": "https://ojo-publico.com/entrevistas/rafael-belaunde-llosa-salirse-la-corte-idh-es-un-disparate"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-rafael-belaunde-libertad-popular-1065329.aspx"
+      },
+      {
+        "medio": "Canal N",
+        "url": "https://canaln.pe/actualidad/belaunde-sentenciado-peculado-no-puede-presidente-n489489"
+      }
+    ],
+    "tags": [
+      "Liberalismo",
+      "Economista y empresario",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-027",
+    "slug": "rafael-lopez-aliaga",
+    "nombre": "Rafael Bernardo López Aliaga Cazorla",
+    "partido": "Renovación Popular",
+    "foto": "/candidates/rafael-lopez-aliaga.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigación fiscal por lavado de activos agravado (Carpeta Fiscal 87-2017) formalizada desde julio 2022, vinculada a contratos irregulares entre Caja Metropolitana y sus empresas ACRES por S/ 1.3 millones.",
+      "Investigación preliminar abierta en marzo 2026 por presunto endeudamiento ilegal de S/ 4,000 millones en la Municipalidad de Lima durante su gestión como alcalde, con indicios de colusión.",
+      "Pericia contable detectó incremento patrimonial no justificado de S/ 20.9 millones entre 2010-2018 que no pudo sustentar ante el Ministerio Público.",
+      "Aparece en Panama Papers como beneficiario de al menos 4 empresas offshore en Panamá e Islas Vírgenes Británicas no declaradas ante la Contraloría.",
+      "Tribunal Constitucional emitió Sentencia 1333/2023 rechazando su hábeas corpus para frenar investigación por lavado de activos, confirmando legalidad del proceso fiscal.",
+      "Declaraciones públicas homofóbicas y discriminatorias en octubre 2025, calificando a políticos de izquierda con términos ofensivos relacionados a orientación sexual."
+    ],
+    "fuentes": [
+      {
+        "medio": "Tribunal Constitucional del Perú",
+        "url": "https://tc.gob.pe/jurisprudencia/2023/03303-2023-HC.pdf"
+      },
+      {
+        "medio": "Epicentro TV",
+        "url": "https://epicentro.tv/lopez-aliaga-sera-investigado-por-endeudamiento-de-s-4-mil-millones/"
+      },
+      {
+        "medio": "El Salmón",
+        "url": "https://www.elsalmon.info/post/el-caso-de-lavado-de-activos-de-l%C3%B3pez-aliaga-te-lo-explicamos-bonito"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/fiscalia-investigara-lopez-aliaga-presunto-endeudamiento-s-4000-millones-mml/"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/03/22/rafael-lopez-aliaga-sera-investigado-por-presunta-colusion-y-negociacion-incompatible-tras-endeudamiento-de-la-mml-por-s4-mil-millones-hnews-1944052"
+      },
+      {
+        "medio": "Jornada",
+        "url": "https://jornada.com.pe/fiscalia-inicia-investigacion-preliminar-contra-lopez-aliaga-por-presunto-endeudamiento-de-4000-millones-de-soles/"
+      },
+      {
+        "medio": "El Machete Perú",
+        "url": "https://elmacheteperu.com/2025/10/27/rafael-lopez-aliaga-desata-polemica-por-insultos-homofobicos-y-discurso-violento-contra-politicos-de-izquierda/"
+      },
+      {
+        "medio": "La República - Perfil",
+        "url": "https://larepublica.pe/politica/2021/02/21/rafael-lopez-aliaga-perfil-del-candidato-presidencial-de-renovacion-popular-pltc"
+      }
+    ],
+    "tags": [
+      "Ultraconservador",
+      "Empresario",
+      "Lambayeque"
+    ]
+  },
+  {
+    "id": "cand-2026-028",
+    "slug": "ricardo-pablo-belmont-cassinellita",
+    "nombre": "Ricardo Pablo Belmont Cassinellita",
+    "partido": "Partido Cívico Obras",
+    "foto": "/candidates/ricardo-pablo-belmont-cassinellita.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Fiscalía formalizó acusación por usurpación y hurto agravado en toma de Radio PBO (2022). Riesgo de 7 años de prisión.",
+      "Investigación por supuesta estafa a miles de accionistas de Red Bicolor de Comunicaciones desde 2005.",
+      "Conflicto legal familiar con Phillip Butters por control de medios. Denuncia 'lawfare' político.",
+      "Declaraciones polémicas sobre fraude electoral en procesos anteriores. Cuestionamientos éticos públicos."
+    ],
+    "fuentes": [
+      {
+        "medio": "La Noticia",
+        "url": "https://lanoticia.com.pe/fiscalia-formaliza-acusacion-contra-ricardo-belmont-y-le-aplicarian-7-anos-de-carcel/"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/02/04/ricardo-belmont-en-carrera-electoral-perfil-completo-del-candidato-presidencial-del-partido-civico-obras/"
+      },
+      {
+        "medio": "Panamericana TV",
+        "url": "https://panamericana.pe/nacionales/5847"
+      },
+      {
+        "medio": "Lima Gris",
+        "url": "https://limagris.com/poder-judicial-no-puede-amparar-persecucion-al-periodista-ricardo-belmont/"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-conoce-plan-gobierno-del-candidato-ricardo-belmont-cassinelli-1065327.aspx"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Empresario de medios",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-029",
+    "slug": "roberto-enrique-chiabra-leon",
+    "nombre": "Roberto Enrique Chiabra León",
+    "partido": "Alianza Unidad Nacional (coalición con PPC)",
+    "foto": "/candidates/roberto-enrique-chiabra-leon.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Denuncia constitucional de Fiscalía por negociación incompatible en ley de doble sueldo militar (2025)",
+      "Designado director de Información Exterior del SIN durante gobierno fujimorista según documentación periodística",
+      "Recurso de nulidad documentado en caso de peculado por complicidad (RN-3605-2006)",
+      "Denuncia de excolaboradora por presunta protección a prófugo de justicia en su partido político",
+      "Cuestionado por presunto cobro de $12,000 del SIN durante era Fujimori-Montesinos"
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2025/01/22/fiscalia-presenta-denuncia-contra-once-congresistas-por-impulsar-ley-que-permitio-doble-sueldo-a-exmilitares-en-el-parlamento"
+      },
+      {
+        "medio": "Wayka",
+        "url": "https://wayka.pe/el-pasado-de-roberto-chiabra-una-carrera-militar-polemica-y-cercana-a-montesinos"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/actualidad/2023/05/12/congreso-extrabajadora-de-roberto-chiabra-denuncia-presencia-de-profugo-de-la-justicia-en-su-agrupacion-union-y-paz-492360"
+      },
+      {
+        "medio": "Poder Judicial - Jurisprudencia",
+        "url": "https://jurisprudencia.pj.gob.pe/jurisprudenciaweb/ServletDescarga?uuid=034b0fe8-50e5-4fd7-8ac4-748661d75822"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/denuncia-constitucional-once-congresistas-comision-defensa-interes-indebido-dictamen-pago-simultaneo-sueldo-pension"
+      },
+      {
+        "medio": "Gestión",
+        "url": "https://gestion.pe/peru/politica/fiscalia-de-la-nacion-denuncia-a-11-legisladores-por-ley-sobre-pension-militar-y-policial-comision-de-defensa-jose-williams-jorge-montoya-congreso-pnp-ffaa-noticia"
+      },
+      {
+        "medio": "Infobae (Candidatura)",
+        "url": "https://www.infobae.com/peru/2026/02/08/roberto-chiabra-perfil-y-hoja-de-vida-del-candidato-del-partido-alianza-unidad-nacional-para-las-elecciones-2026"
+      }
+    ],
+    "tags": [
+      "Militar (General EP retirado)",
+      "Conservador",
+      "Callao"
+    ]
+  },
+  {
+    "id": "cand-2026-030",
+    "slug": "roberto-helbert-sanchez-palomino",
+    "nombre": "Roberto Helbert Sánchez Palomino",
+    "partido": "Juntos por el Perú",
+    "foto": "/candidates/roberto-helbert-sanchez-palomino.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigado por rebelión y conspiración en intento de autogolpe de Pedro Castillo (2022)",
+      "Acusado de 'mochasueldos' y cobro de diezmos en MINCETUR según Carpeta Fiscal 248-2022",
+      "Investigación por obstrucción a la justicia: presunto pago a esposa de Bruno Pacheco para silenciar testimonios",
+      "Denuncia por uso indebido de fondos partidarios para simular capacitaciones y financiar reuniones políticas",
+      "Cuestionado por designaciones irregulares en CENFOTUR sin perfil técnico adecuado"
+    ],
+    "fuentes": [
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-conoce-hoja-vida-roberto-sanchez-juntos-por-peru-1065884.aspx"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Roberto_S%C3%A1nchez_Palomino"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2024/08/12/roberto-sanchez-exministro-de-pedro-castillo-investigado-por-corrupcion-acusado-de-mochasueldos-y-delitos-contra-la-administracion-publica/"
+      },
+      {
+        "medio": "Perú21",
+        "url": "https://peru21.pe/politica/pedro-castillo-fiscalia-de-la-nacion-incluye-a-ministro-roberto-sanchez-en-investigacion-al-presidente-rmmn-noticia/"
+      },
+      {
+        "medio": "Risk Global Consulting",
+        "url": "https://www.riskglobalconsulting.com/boletin-informativo/noticias/investigacion-a-congresista-por-presunta-corrupcion-y-trafico-de-influencias/"
+      }
+    ],
+    "tags": [
+      "izquierda",
+      "psicólogo",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-031",
+    "slug": "ronald-atencio-sotomayor",
+    "nombre": "Ronald Darwin Atencio Sotomayor",
+    "partido": "Alianza Electoral Venceremos",
+    "foto": "/candidates/ronald-atencio-sotomayor.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Investigación fiscal abierta por presunto patrocinio ilegal en agravio del Estado (2022-vigente)",
+      "Vinculado a presunta venta ilegal de tesis universitarias a través de estudio jurídico que fundó (2026)"
+    ],
+    "fuentes": [
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/judiciales/2022/10/14/fiscalia-abre-proceso-de-investigacion-contra-raul-noblecilla-y-ronald-atencio-por-presunto-patrocinio-ilegal-ministerio-publico-mdga"
+      },
+      {
+        "medio": "Willax",
+        "url": "https://willax.pe/politica/raul-noblecilla-y-ronald-atencio-fiscalia-abre-investigacion-a-abogados-por-presunto-patrocinio-ilegal"
+      },
+      {
+        "medio": "RPP",
+        "url": "https://rpp.pe/politica/estado/denuncian-que-estudio-juridico-fundado-por-ronald-atencio-ofrece-servicio-irregular-de-elaboracion-de-tesis-noticia-1671230"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/01/12/candidato-presidencial-ronald-atencio-vinculado-a-red-de-venta-ilegal-de-tesis-universitarias-por-s-5900"
+      },
+      {
+        "medio": "JNE Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/3025/41373494"
+      }
+    ],
+    "tags": [
+      "Izquierda",
+      "Abogado",
+      "Huánuco"
+    ]
+  },
+  {
+    "id": "cand-2026-032",
+    "slug": "rosario-del-pilar-fernandez-bazan",
+    "nombre": "Rosario del Pilar Fernández Bazán",
+    "partido": "Un Camino Diferente",
+    "foto": "/candidates/rosario-del-pilar-fernandez-bazan.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Denunciada penalmente por agresiones a la PNP y daños a sede judicial en Trujillo (dic. 2025).",
+      "Expediente abierto por el JNE por omisiones en su declaración jurada de hoja de vida.",
+      "Se negó a firmar el Pacto Ético Electoral 2026, alegando que la ética se practica, no se firma.",
+      "Cuestionada por su defensa de su hermano Arturo Fernández, sentenciado y prófugo por difamación."
+    ],
+    "fuentes": [
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2025/12/19/rosario-fernandez-candidata-que-se-nego-a-firmar-pacto-etico-electoral-fue-denunciada-por-agredir-a-la-pnp-y-tirar-huevos-a-sede-judicial"
+      },
+      {
+        "medio": "Diario Correo (La Libertad)",
+        "url": "https://diariocorreo.pe/edicion/la-libertad/poder-judicial-denuncia-ataques-de-manifestantes-trujillo-la-libertad-peru-noticia"
+      },
+      {
+        "medio": "Diario Correo (nacional)",
+        "url": "https://diariocorreo.pe/politica/elecciones-2026-hay-15-candidatos-presidenciales-bajo-la-lupa-noticia"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/elecciones/candidata-presidencial-de-un-camino-diferente-defiende-a-su-hermano-arturo-fernandez-preso-por-difamacion-rosario-fernandez-ultimas-noticia"
+      },
+      {
+        "medio": "Voto Informado - JNE",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2998/18141156"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-rosario-fernandez-un-camino-diferente-1065405.aspx"
+      },
+      {
+        "medio": "ChecaBien",
+        "url": "https://www.checabien.com/candidatos/presidenciales/rosario-del-pilar-fernandez-bazan-2"
+      }
+    ],
+    "tags": [
+      "Conservadora",
+      "Docente",
+      "La Libertad"
+    ]
+  },
+  {
+    "id": "cand-2026-033",
+    "slug": "vladimir-cerron",
+    "nombre": "Vladimir Roy Cerrón Rojas",
+    "partido": "Perú Libre",
+    "foto": "/candidates/vladimir-cerron.webp",
+    "calificacion": "sentenciado",
+    "resumen_polemicas": [
+      "Sentencia firme de extinción de dominio por S/ 1.6 millones por incremento patrimonial no justificado (2025)",
+      "Prófugo de la justicia desde octubre 2023 con orden de prisión preventiva vigente por caso Los Dinámicos del Centro",
+      "Dos sentencias condenatorias anuladas: Caso La Oroya (4 años 8 meses) por TC y Caso Aeródromo Wanka (3 años 6 meses) por Corte Suprema",
+      "Investigación por presunta organización criminal y lavado de activos en financiamiento ilegal de campañas electorales de Perú Libre",
+      "Investigación por colusión agravada en caso Antalsis vinculado a Martín Belaunde Lossio por presunta defraudación de S/ 26 millones"
+    ],
+    "fuentes": [
+      {
+        "medio": "Poder Judicial del Perú",
+        "url": "https://www.pj.gob.pe/wps/wcm/connect/cortesuprema/s_cortes_suprema_home/as_inicio/as_enlaces_destacados/as_imagen_prensa/as_notas_noticias/2025/cs_n-sala-de-extincion-de-dominio-dispone-transferir-estado-mas-1-millon-600-mil-soles-cuentas-vladimir-cerron"
+      },
+      {
+        "medio": "Ministerio Público - MPFN",
+        "url": "https://www.gob.pe/institucion/mpfn/noticias/1270562-fiscalia-superior-logra-confirmar-recuperacion-de-mas-de-un-millon-y-medio-de-soles-de-vladimir-cerron-a-favor-del-estado"
+      },
+      {
+        "medio": "RPP Noticias",
+        "url": "https://rpp.pe/politica/judiciales/tribunal-constitucional-anulo-sentencia-condenatoria-contra-vladimir-cerron-en-caso-la-oroya-noticia-1624744"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/tc-declara-nula-condena-vladimir-cerron-negociacion-incompatible-caso-la-oroya-expediente-01513-2024-phc-tc/"
+      },
+      {
+        "medio": "Caretas",
+        "url": "https://caretas.pe/politica/pj-evalua-cerrar-investigacion-contra-vladimir-cerron-por-los-dinamicos/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/entretelones-vladimir-cerron-busca-ayuda-del-tc-para-anular-su-orden-de-captura-y-prision-preventiva-cuales-son-los-argumentos-del-profugo-exfuncionario-y-como-llego-a-programarse-tan-rapido-el-caso-tlcnota-noticia/"
+      },
+      {
+        "medio": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/03/18/peru-tc-ya-tiene-lista-sentencia-que-beneficia-a-vladimir-cerron-y-le-quita-la-prision-preventiva-revela-hildebrandt/"
+      },
+      {
+        "medio": "TV Perú",
+        "url": "https://www.tvperu.gob.pe/noticias/politica/poder-judicial-dicta-18-meses-de-prision-preventiva-contra-vladimir-cerron-por-colusion-agravada"
+      }
+    ],
+    "tags": [
+      "Izquierda",
+      "Médico Neurocirujano",
+      "Junín"
+    ]
+  },
+  {
+    "id": "cand-2026-034",
+    "slug": "walter-gilmer-chirinos-purizaga",
+    "nombre": "Walter Gilmer Chirinos Purizaga",
+    "partido": "Partido Político PRIN",
+    "foto": "/candidates/walter-gilmer-chirinos-purizaga.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Afirmó que Vladimiro Montesinos participó en su plan de gobierno como estratega en seguridad, generando fuerte rechazo político.",
+      "Presentó como parte de su equipo a la exasesora de Montesinos y a un exministro de Bukele, lo que generó polémica en el debate presidencial.",
+      "Está mencionado en una carpeta fiscal por organización criminal y falsificación de documentos junto a Keiko Fujimori y otros, pero sin sentencia condenatoria.",
+      "El JNE no registra sentencias en su hoja de vida, pero su vinculación con figuras del fujimorismo y Montesinos genera cuestionamientos éticos."
+    ],
+    "fuentes": [
+      {
+        "medio": "JNE - Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2921/18870364"
+      },
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/jne-pide-ampliar-investigacion-keiko-fujimori-caso-falsificacion-documentos-induccion-al-voto"
+      },
+      {
+        "medio": "Elección Clara",
+        "url": "https://www.eleccionclara.pe/candidatos/5980"
+      },
+      {
+        "medio": "Exitosa Noticias",
+        "url": "https://www.exitosanoticias.pe/politica/vladimiro-montesinos-participo-plan-gobierno-walter-chirinos-asegura-candidato-n171961"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/03/25/bukele-y-montesinos-juntos-walter-chirinos-llega-al-debate-presidencial-junto-a-exministro-de-el-salvador-y-la-abogada-del-exjefe-de-inteligencia"
+      },
+      {
+        "medio": "El Peruano",
+        "url": "https://elperuano.pe/noticia/288697-elecciones-2026-walter-chirinos-del-prin-propone-estado-de-excepcion-contra-criminalidad"
+      }
+    ],
+    "tags": [
+      "Contador público",
+      "Candidato presidencial",
+      "La Libertad"
+    ]
+  },
+  {
+    "id": "cand-2026-035",
+    "slug": "wolfgang-mario-grozo-costa",
+    "nombre": "Wolfgang Mario Grozo Costa",
+    "partido": "Integridad Democrática",
+    "foto": "/candidates/wolfgang-mario-grozo-costa.webp",
+    "calificacion": "polemico",
+    "resumen_polemicas": [
+      "Declaró error de digitación en su declaración jurada: inicialmente S/ 277 millones, corregido a S/ 256 mil soles ante el JNE",
+      "Admitió haber mentido sobre su relación con el empresario investigado Zamir Villaverde, quien presentó evidencia de reuniones",
+      "Postura controvertida contra el aborto terapéutico: afirmó que víctimas de violación que aborten enfrentarían la justicia",
+      "Defendió el uso de fuerza militar en protestas 2022 y propuso salida de Perú de la Convención Americana de DD.HH."
+    ],
+    "fuentes": [
+      {
+        "medio": "Willax",
+        "url": "https://willax.pe/politica/candidato-wolfgang-grozo-error-digitacion-fortuna-277-millones-willax"
+      },
+      {
+        "medio": "JNE - Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2985/07260881"
+      },
+      {
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/03/08/wolfgang-grozo-responsabiliza-a-un-alumno-de-haberlo-colocado-como-equipo-de-transferencia-de-pedro-castillo-no-me-consulto/"
+      },
+      {
+        "medio": "Nacional Callao TV",
+        "url": "https://www.facebook.com/nacionalcallaotv/posts/-menti-para-protegerme-el-candidato-wolfgang-grozo-admite-que-minti%C3%B3-sobre-su-re/1578505490941600/"
+      },
+      {
+        "medio": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Wolfgang_Grozo"
+      },
+      {
+        "medio": "Lima Gris",
+        "url": "https://limagris.com/exdirector-de-inteligencia-de-la-fap-wolfgang-grozo-el-nuevo-outsider-presidencial/"
+      }
+    ],
+    "tags": [
+      "Conservador",
+      "Militar FAP (General en Retiro)",
+      "Lima"
+    ]
+  },
+  {
+    "id": "cand-2026-036",
+    "slug": "yonhy-lescano-ancieta",
+    "nombre": "Yonhy Lescano Ancieta",
+    "partido": "Cooperación Popular",
+    "foto": "/candidates/yonhy-lescano-ancieta.webp",
+    "calificacion": "investigado",
+    "resumen_polemicas": [
+      "Suspendido 120 días por Congreso en 2019 por acoso sexual a periodista. Investigación penal archivada en 2020 pero caso sigue vigente en opinión pública.",
+      "18 investigaciones fiscales registradas según Ministerio Público (marzo 2026), con 7 casos actualmente en curso por diversos delitos.",
+      "Investigaciones incluyen tráfico de influencias, negociación incompatible, agresiones contra mujeres y omisión de socorro.",
+      "Perdió querella por difamación contra periodista denunciante en 2022. Juez falló a favor de la víctima y la eximió de pagar 500 mil soles."
+    ],
+    "fuentes": [
+      {
+        "medio": "La Válvula / Vocifera",
+        "url": "https://lavalvula.substack.com/p/yonhy-lescano-el-candidato-denunciado"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/yonhy-lescano-suspendido-120-dias-pleno-congreso-noticia-nndc-623045-noticia/"
+      },
+      {
+        "medio": "teleoLeo.com",
+        "url": "https://teleoleo.com/2022/09/28/la-justicia-falla-a-favor-de-la-periodista-que-denuncio-a-yonhy-lescano-por-acoso-sexual-y-la-exime-del-pago-de-500-mil-soles/"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-revisa-hoja-vida-yonhy-lescano-cooperacion-popular-1065571.aspx"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/tag/yonhy-lescano"
+      }
+    ],
+    "tags": [
+      "Centro-izquierda",
+      "Abogado",
+      "Puno"
+    ]
+  }
+]
