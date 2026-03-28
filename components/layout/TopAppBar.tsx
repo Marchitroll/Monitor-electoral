@@ -25,7 +25,7 @@ export function TopAppBar({
             href="/"
             className="text-xl font-bold tracking-tight text-white transition-opacity hover:opacity-80 sm:text-2xl"
           >
-            Monitor electoral
+            Monitor Electoral
           </Link>
         </h1>
 

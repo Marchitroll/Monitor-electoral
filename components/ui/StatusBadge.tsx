@@ -9,7 +9,7 @@ export function StatusBadge({ calificacion }: StatusBadgeProps) {
   return (
     <span
       className={[
-        "px-2 py-0.5 text-[10px] font-bold uppercase tracking-[0.08em]",
+        "px-2 py-1 text-sm font-extrabold uppercase tracking-[0.08em]",
         calificacionBadgeClass(calificacion),
       ].join(" ")}
     >

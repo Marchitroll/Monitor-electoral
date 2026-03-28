@@ -16,7 +16,7 @@ interface CandidateDetailPageProps {
   }>;
 }
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export const dynamicParams = false;
 
@@ -40,30 +40,33 @@ export async function generateMetadata({ params }: CandidateDetailPageProps): Pr
 
   const description = `Perfil de ${candidate.nombre} (${candidate.partido}) con resumen de controversias y fuentes periodisticas verificables.`;
 
+  const canonicalUrl = `${baseUrl}/candidatos/${candidate.slug}`;
+  const candidateOgImage = `${canonicalUrl}/opengraph-image`;
+
   return {
-    title: `${candidate.nombre} - Perfil y controversias`,
-    description,
+    title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
+    description: description.slice(0, 160),
     alternates: {
-      canonical: `/candidatos/${candidate.slug}`,
+      canonical: canonicalUrl,
     },
     openGraph: {
       type: "article",
       locale: "es_PE",
-      url: `/candidatos/${candidate.slug}`,
-      title: `${candidate.nombre} - Perfil y controversias`,
-      description,
+      url: canonicalUrl,
+      title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
+      description: description.slice(0, 160),
       images: [
         {
-          url: candidate.foto,
-          alt: `Retrato de ${candidate.nombre}`,
+          url: candidateOgImage,
+          alt: `Imagen Open Graph de ${candidate.nombre}`,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${candidate.nombre} - Perfil y controversias`,
-      description,
-      images: [candidate.foto],
+      title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
+      description: description.slice(0, 160),
+      images: [candidateOgImage],
     },
   };
 }
@@ -80,13 +83,13 @@ export default async function CandidateDetailPage({ params }: CandidateDetailPag
     "@context": "https://schema.org",
     "@type": "Person",
     name: candidate.nombre,
-    image: `${siteUrl}${candidate.foto}`,
+    image: `${baseUrl}${candidate.foto}`,
     affiliation: {
       "@type": "Organization",
       name: candidate.partido,
-      logo: `${siteUrl}${candidate.logoPartido}`,
+      logo: `${baseUrl}${candidate.logoPartido}`,
     },
-    url: `${siteUrl}/candidatos/${candidate.slug}`,
+    url: `${baseUrl}/candidatos/${candidate.slug}`,
     description: `Resumen de controversias y fuentes de ${candidate.nombre}.`,
   };
 
@@ -152,7 +155,7 @@ export default async function CandidateDetailPage({ params }: CandidateDetailPag
           <div className="flex flex-col gap-10 xl:flex-row xl:gap-16 xl:items-start">
             {/* Analysis — main column */}
             <div className="flex-1 min-w-0">
-              <AIAnalysis paragraphs={candidate.resumen_polemicas} />
+              <AIAnalysis paragraphs={candidate.resumen_polemicas} calificacion={candidate.calificacion} />
             </div>
 
             {/* Sources — sticky right panel */}

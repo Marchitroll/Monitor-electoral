@@ -40,14 +40,15 @@ export function CandidateCard({ candidate, prioritizeImage = false }: CandidateC
           className="object-cover grayscale transition-all duration-300 group-hover:scale-[1.03] group-hover:grayscale-0"
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent" />
-        <div className="absolute right-3 top-3 h-12 w-12 overflow-hidden border border-white/15 bg-black/55 p-1 backdrop-blur-sm">
+        <div className="absolute right-3 top-3 h-12 w-12 overflow-hidden border border-white/15 bg-black/55 p-1 backdrop-blur-sm" aria-hidden="true">
           <Image
             src={candidate.logoPartido}
-            alt={`Logo de ${candidate.partido}`}
+            alt=""
             width={48}
             height={48}
             className="h-full w-full object-contain"
           />
+          <span className="sr-only">Logo de {candidate.partido}</span>
         </div>
         <div className="absolute bottom-3 left-3 right-3 min-w-0">
           <h2 className="text-2xl font-bold leading-[1.05] text-white drop-shadow-sm">{candidate.nombre}</h2>

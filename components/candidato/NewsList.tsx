@@ -15,14 +15,14 @@ export function NewsList({ news }: NewsListProps) {
       {news.length === 0 ? (
         <p className="text-sm text-on-surface-muted">Sin fuentes registradas.</p>
       ) : (
-        <ol className="space-y-0">
+        <ol className="space-y-2">
           {news.map((item, index) => (
-            <li key={`${item.medio}-${index}`} className="border-b border-outline/30 last:border-b-0">
+            <li key={`${item.medio}-${index}`}> 
               <a
                 href={item.url}
                 target="_blank"
                 rel="noreferrer"
-                className="group block py-2.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+                className="group block rounded-lg border border-outline/30 bg-surface p-3 shadow-sm transition-all duration-150 hover:-translate-y-0.5 hover:shadow-md hover:border-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
                 aria-label={`Ver fuente: ${item.medio}`}
               >
                 <div className="flex items-center gap-2">

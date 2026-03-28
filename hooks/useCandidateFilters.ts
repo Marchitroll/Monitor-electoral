@@ -45,6 +45,25 @@ export function useCandidateFilters(candidates: Candidate[]) {
     });
   }, [candidates, query, selectedCalificacion]);
 
+  const calificacionCounts = useMemo(() => {
+    const base = {
+      sentenciado: 0,
+      investigado: 0,
+      polemico: 0,
+      sin_registros: 0,
+    } as Record<CandidateCalificacion, number>;
+
+    candidates.forEach((candidate) => {
+      if (base[candidate.calificacion] !== undefined) {
+        base[candidate.calificacion] += 1;
+      } else {
+        base.sin_registros += 1;
+      }
+    });
+
+    return base;
+  }, [candidates]);
+
   function clearFilters() {
     setSelectedCalificacion(ALL_CALIFICACIONES);
     setQuery("");
@@ -66,5 +85,6 @@ export function useCandidateFilters(candidates: Candidate[]) {
     setQuery,
     filteredCandidates,
     clearFilters,
+    calificacionCounts,
   };
 }

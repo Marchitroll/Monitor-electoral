@@ -30,12 +30,19 @@ export const metadata: Metadata = {
     title: "Monitor Electoral | Plataforma 2026",
     description:
       "Perfiles de candidatos presidenciales 2026, resumen de controversias y acceso a fuentes periodisticas.",
+    images: [
+      {
+        url: "/opengraph-image",
+        alt: "Monitor Electoral 2026",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Monitor Electoral | Plataforma 2026",
     description:
       "Perfiles de candidatos presidenciales 2026 con controversias y fuentes periodisticas verificables.",
+    images: ["/twitter-image"],
   },
   robots: {
     index: true,

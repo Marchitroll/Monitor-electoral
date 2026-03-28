@@ -1,5 +1,23 @@
 import type { CandidateCalificacion } from "@/lib/types";
 
+const CALIFICACION_LABELS: Record<CandidateCalificacion, string> = {
+  sentenciado:   "Sentenciado",
+  investigado:   "Investigado",
+  polemico:      "Polémico",
+  sin_registros: "Sin registros",
+};
+
+const CALIFICACION_BADGE_CLASSES: Record<CandidateCalificacion, string> = {
+  sentenciado:
+    "bg-primary text-white border border-primary/90 shadow-lg shadow-primary/40 text-[11px] tracking-[0.12em]",
+  investigado:
+    "bg-[#a87c1a]/20 text-[#c9962a] border border-[#a87c1a]/50 text-[10px] tracking-[0.10em]",
+  polemico:
+    "bg-surface-container-high text-on-background border border-outline text-[10px] tracking-[0.08em]",
+  sin_registros:
+    "bg-surface-container text-on-surface-muted border border-outline text-[9px] tracking-[0.08em]",
+};
+
 export function normalizeCalificacion(value: string): CandidateCalificacion {
   const normalized = value
     .trim()
@@ -7,24 +25,23 @@ export function normalizeCalificacion(value: string): CandidateCalificacion {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 
-  if (normalized === "investigado") return "investigado";
-  if (normalized === "polemico") return "polemico";
-  if (normalized === "sentenciado") return "sentenciado";
-  return "sin_registros";
+  const valid: CandidateCalificacion[] = ["investigado", "polemico", "sentenciado"];
+  return valid.includes(normalized as CandidateCalificacion)
+    ? (normalized as CandidateCalificacion)
+    : "sin_registros";
 }
 
 export function calificacionLabel(calificacion: CandidateCalificacion): string {
-  if (calificacion === "investigado") return "Investigado";
-  if (calificacion === "polemico") return "Polemico";
-  if (calificacion === "sentenciado") return "Sentenciado";
-  return "Sin registros";
+  return CALIFICACION_LABELS[calificacion];
 }
 
 export function calificacionBadgeClass(calificacion: CandidateCalificacion): string {
-  if (calificacion === "sentenciado") return "bg-primary text-white";
-  if (calificacion === "investigado") return "bg-[#8A6800] text-black";
-  if (calificacion === "polemico") return "bg-surface-container-high text-on-background";
-  return "bg-surface-container-high text-on-surface-muted";
+  return CALIFICACION_BADGE_CLASSES[calificacion];
+}
+
+export function calificacionLabelPlural(calificacion: CandidateCalificacion): string {
+  if (calificacion === "sin_registros") return "Sin registros";
+  return `${CALIFICACION_LABELS[calificacion]}s`;
 }
 
 export function getDomainFromUrl(url: string): string {

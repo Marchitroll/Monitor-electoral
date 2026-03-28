@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
+import { CopyCandidateLinkButton } from "@/components/candidato/CopyCandidateLinkButton";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import type { Candidate } from "@/lib/types";
 
@@ -51,7 +52,7 @@ export function CandidateSidebar({ candidate }: CandidateSidebarProps) {
               candidate.tags.map((tag) => (
                 <span
                   key={`${candidate.id}-${tag}`}
-                  className="bg-surface-container-high px-2 py-1 text-[10px] font-bold uppercase tracking-[0.08em] text-on-surface-muted"
+                  className="bg-surface-container-high px-2 py-1 text-[10px] font-bold uppercase tracking-[0.08em] text-white"
                 >
                   {tag}
                 </span>
@@ -61,6 +62,10 @@ export function CandidateSidebar({ candidate }: CandidateSidebarProps) {
             )}
           </div>
         </section>
+      </div>
+
+      <div>
+        <CopyCandidateLinkButton slug={candidate.slug} />
       </div>
 
       <div className="pt-10">

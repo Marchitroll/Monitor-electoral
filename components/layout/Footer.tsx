@@ -11,14 +11,27 @@ export function Footer() {
           </span>
           <div className="h-3 w-px bg-outline" />
           <span className="text-[10px] uppercase tracking-[0.14em] text-on-surface-subtle">
-            Hackaton Cubepath · Marchitroll
+            Hackaton CubePath ·
+            <a
+              href="https://github.com/Marchitroll"
+              target="_blank"
+              rel="noreferrer"
+              className="ml-1 text-primary hover:underline"
+            >
+              Marchitroll
+            </a>
           </span>
         </div>
 
-        {/* Disclaimer */}
-        <p className="text-[10px] uppercase tracking-[0.12em] text-on-surface-subtle">
-          <AIDisclaimerText />
-        </p>
+        {/* Last update + disclaimer */}
+        <div className="flex flex-col items-center text-center sm:items-end">
+          <p className="text-[10px] uppercase tracking-[0.12em] text-white">
+            Última actualización: 27 de marzo de 2026
+          </p>
+          <p className="text-[10px] uppercase tracking-[0.12em] text-on-surface-subtle">
+            <AIDisclaimerText />
+          </p>
+        </div>
       </div>
     </footer>
   );

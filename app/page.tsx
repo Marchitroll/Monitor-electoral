@@ -18,6 +18,7 @@ export default function Home() {
     setQuery,
     filteredCandidates,
     clearFilters,
+    calificacionCounts,
   } = useCandidateFilters(candidates);
 
   return (
@@ -33,6 +34,7 @@ export default function Home() {
         setQuery={setQuery}
         clearFilters={clearFilters}
         resultCount={filteredCandidates.length}
+        calificacionCounts={calificacionCounts}
       />
 
       <main className="flex-1 px-4 pb-12 pt-48 sm:px-6">
