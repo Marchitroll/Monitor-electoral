@@ -39,13 +39,17 @@ export async function generateMetadata({ params }: CandidateDetailPageProps): Pr
   }
 
   const description = `Perfil de ${candidate.nombre} (${candidate.partido}) con resumen de controversias y fuentes periodisticas verificables.`;
+  const metadataTitle = `${candidate.nombre} - Perfil y controversias`;
+  const metadataDescription = description.slice(0, 160);
 
   const canonicalUrl = `${baseUrl}/candidatos/${candidate.slug}`;
-  const candidateOgImage = `${canonicalUrl}/opengraph-image`;
+  const candidateOgImage = candidate.foto.startsWith("http")
+    ? candidate.foto
+    : `${baseUrl}${candidate.foto}`;
 
   return {
-    title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
-    description: description.slice(0, 160),
+    title: metadataTitle,
+    description: metadataDescription,
     alternates: {
       canonical: canonicalUrl,
     },
@@ -53,19 +57,19 @@ export async function generateMetadata({ params }: CandidateDetailPageProps): Pr
       type: "article",
       locale: "es_PE",
       url: canonicalUrl,
-      title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
-      description: description.slice(0, 160),
+      title: metadataTitle,
+      description: metadataDescription,
       images: [
         {
           url: candidateOgImage,
-          alt: `Imagen Open Graph de ${candidate.nombre}`,
+          alt: `Retrato de ${candidate.nombre}`,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${candidate.nombre} - Perfil y controversias | Monitor Electoral`,
-      description: description.slice(0, 160),
+      title: metadataTitle,
+      description: metadataDescription,
       images: [candidateOgImage],
     },
   };
