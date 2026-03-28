@@ -1,11 +1,23 @@
 import type { CandidateCalificacion } from "@/lib/types";
 
 const CALIFICACION_LABELS: Record<CandidateCalificacion, string> = {
-  sentenciado:   "Sentenciado",
-  investigado:   "Investigado",
-  polemico:      "Polémico",
+  sentenciado: "Sentenciado",
+  investigado: "Investigado",
+  polemico: "Polémico",
   sin_registros: "Sin registros",
 };
+
+const CALIFICACIONES_VALIDAS = [
+  "investigado",
+  "polemico",
+  "sentenciado",
+] as const;
+
+type CalificacionValida = (typeof CALIFICACIONES_VALIDAS)[number];
+
+function isCandidateCalificacion(value: string): value is CalificacionValida {
+  return CALIFICACIONES_VALIDAS.includes(value as CalificacionValida);
+}
 
 const CALIFICACION_BADGE_CLASSES: Record<CandidateCalificacion, string> = {
   sentenciado:
@@ -18,28 +30,35 @@ const CALIFICACION_BADGE_CLASSES: Record<CandidateCalificacion, string> = {
     "bg-surface-container text-on-surface-muted border border-outline text-[9px] tracking-[0.08em]",
 };
 
-export function normalizeCalificacion(value: string): CandidateCalificacion {
+export function normalizeCalificacion(value: unknown): CandidateCalificacion {
+  if (typeof value !== "string") return "sin_registros";
+
   const normalized = value
     .trim()
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 
-  const valid: CandidateCalificacion[] = ["investigado", "polemico", "sentenciado"];
-  return valid.includes(normalized as CandidateCalificacion)
-    ? (normalized as CandidateCalificacion)
+  return isCandidateCalificacion(normalized)
+    ? normalized
     : "sin_registros";
 }
 
-export function calificacionLabel(calificacion: CandidateCalificacion): string {
+export function calificacionLabel(
+  calificacion: CandidateCalificacion
+): string {
   return CALIFICACION_LABELS[calificacion];
 }
 
-export function calificacionBadgeClass(calificacion: CandidateCalificacion): string {
+export function calificacionBadgeClass(
+  calificacion: CandidateCalificacion
+): string {
   return CALIFICACION_BADGE_CLASSES[calificacion];
 }
 
-export function calificacionLabelPlural(calificacion: CandidateCalificacion): string {
+export function calificacionLabelPlural(
+  calificacion: CandidateCalificacion
+): string {
   if (calificacion === "sin_registros") return "Sin registros";
   return `${CALIFICACION_LABELS[calificacion]}s`;
 }

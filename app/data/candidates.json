@@ -1,10 +1,9 @@
 [
   {
     "id": "cand-2026-001",
-    "slug": "alex-gonzales-castillos",
+    "slug": "alex-gonzales-castillo",
     "nombre": "Álex Gonzales Castillo",
     "partido": "Partido Demócrata Verde",
-    "foto": "/candidates/alex-gonzales-castillos.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Declaraciones polémicas en debate 2026: '¡Basta de hueveo!' y propuesta 'cárcel o cementerio' para delincuentes",
@@ -55,7 +54,6 @@
     "slug": "alfonso-carlos-espa-garces-alvear",
     "nombre": "Alfonso Carlos Espá Garcés-Alvear",
     "partido": "SíCreo",
-    "foto": "/candidates/alfonso-carlos-espa-garces-alvear.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Incorporó al cuestionado almirante Jorge Montoya al puesto 5 de su lista al Senado, generando rechazo ciudadano masivo en el sur del país.",
@@ -105,7 +103,6 @@
     "slug": "alvaro-paz-de-la-barra",
     "nombre": "Álvaro Gonzalo Paz de la Barra Freigeiro",
     "partido": "Fe en el Perú",
-    "foto": "/candidates/alvaro-paz-de-la-barra.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Medidas de protección por violencia familiar mutua con expareja Sofía Franco (marzo 2021)",
@@ -146,22 +143,39 @@
     "slug": "antonio-ortiz-villano",
     "nombre": "Antonio Ortiz Villano",
     "partido": "Salvemos al Perú",
-    "foto": "/candidates/antonio-ortiz-villano.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
-    "Expediente JNE abierto por omitir 3,000 acciones en Advanced Development Company S.A.C. y sentencia civil de S/268,000 en su hoja de vida.",
-    "Omitió también 12,000 acciones de su esposa en CIA Importadora de Rodamientos D&G S.A.C. en declaración jurada ante el JNE.",
-    "Fotografía de reunión con magistrado del JNE Willy Ramírez Chavarry, semanas antes del sorteo que lo proclamó candidato, generó acusaciones de direccionamiento.",
-    "Candidatura definida por lanzamiento de moneda al aire tras empate con Mariano González en primarias internas del partido (13 dic. 2025)."
-  ],
+      "Expediente JNE abierto por omitir 3,000 acciones en Advanced Development Company S.A.C. y sentencia civil de S/268,000 en su hoja de vida.",
+      "Omitió también 12,000 acciones de su esposa en CIA Importadora de Rodamientos D&G S.A.C. en declaración jurada ante el JNE.",
+      "Fotografía de reunión con magistrado del JNE Willy Ramírez Chavarry, semanas antes del sorteo que lo proclamó candidato, generó acusaciones de direccionamiento.",
+      "Candidatura definida por lanzamiento de moneda al aire tras empate con Mariano González en primarias internas del partido (13 dic. 2025)."
+    ],
     "fuentes": [
-    { "medio": "Gestión", "url": "https://gestion.pe/peru/politica/elecciones-2026-abren-expedientes-a-15-candidatos-presidenciales-por-su-hoja-de-vida-noticia/" },
-    { "medio": "El Comercio", "url": "https://elcomercio.pe/politica/elecciones/mariano-gonzalez-asegura-que-hubo-un-direccionamiento-en-elecciones-internas-del-partido-salvemos-al-peru-elecciones-2026-antonio-ortiz-villano-jne-willy-ramirez-ultimas-noticia/" },
-    { "medio": "El Comercio", "url": "https://elcomercio.pe/politica/elecciones/elecciones-2026-mas-de-20-candidatos-a-la-presidencia-y-vicepresidencias-enfrentan-expedientes-por-falsedad-u-omisiones-en-sus-hojas-de-vida-tlcnota-noticia/" },
-    { "medio": "JNE - Voto Informado", "url": "https://votoinformado.jne.gob.pe/hoja-vida/2927/08587486" },
-    { "medio": "La República", "url": "https://larepublica.pe/politica/2025/12/13/ortiz-villano-es-el-candidato-presidencial-del-partido-salvemos-al-peru-tras-ganar-en-lanzamiento-de-moneda-hnews-976131" },
-    { "medio": "Agencia Andina", "url": "https://andina.pe/agencia/noticia-elecciones-2026-conoce-hoja-vida-antonio-ortiz-salvemos-al-peru-1065765.aspx" }
-  ],
+      {
+        "medio": "Gestión",
+        "url": "https://gestion.pe/peru/politica/elecciones-2026-abren-expedientes-a-15-candidatos-presidenciales-por-su-hoja-de-vida-noticia/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/elecciones/mariano-gonzalez-asegura-que-hubo-un-direccionamiento-en-elecciones-internas-del-partido-salvemos-al-peru-elecciones-2026-antonio-ortiz-villano-jne-willy-ramirez-ultimas-noticia/"
+      },
+      {
+        "medio": "El Comercio",
+        "url": "https://elcomercio.pe/politica/elecciones/elecciones-2026-mas-de-20-candidatos-a-la-presidencia-y-vicepresidencias-enfrentan-expedientes-por-falsedad-u-omisiones-en-sus-hojas-de-vida-tlcnota-noticia/"
+      },
+      {
+        "medio": "JNE - Voto Informado",
+        "url": "https://votoinformado.jne.gob.pe/hoja-vida/2927/08587486"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2025/12/13/ortiz-villano-es-el-candidato-presidencial-del-partido-salvemos-al-peru-tras-ganar-en-lanzamiento-de-moneda-hnews-976131"
+      },
+      {
+        "medio": "Agencia Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-conoce-hoja-vida-antonio-ortiz-salvemos-al-peru-1065765.aspx"
+      }
+    ],
     "tags": [
       "Empresario",
       "Gerente General",
@@ -173,7 +187,6 @@
     "slug": "armando-joaquin-masse-fernandez",
     "nombre": "Armando Joaquín Massé Fernández",
     "partido": "Partido Democrático Federal",
-    "foto": "/candidates/armando-joaquin-masse-fernandez.webp",
     "calificacion": "sentenciado",
     "resumen_polemicas": [
       "Fiscalía investigó a Massé y directivos de APDAYC por lavado de activos, estafa y administración fraudulenta (2013-2019)",
@@ -224,7 +237,6 @@
     "slug": "carlos-gonsalo-alvarez-loayza",
     "nombre": "Carlos Gonsalo Álvarez Loayza",
     "partido": "País Para Todos",
-    "foto": "/candidates/carlos-gonsalo-alvarez-loayza.webp",
     "calificacion": "sentenciado",
     "resumen_polemicas": [
       "Omitió declarar proceso judicial por peculado (2002) ante el JNE. Aunque fue absuelto por la Corte Suprema en 2007, críticos cuestionan transparencia en su hoja de vida electoral.",
@@ -264,7 +276,6 @@
     "slug": "carlos-ernesto-jaico-carranza",
     "nombre": "Carlos Ernesto Jaico Carranza",
     "partido": "Perú Moderno",
-    "foto": "/candidates/carlos-ernesto-jaico-carranza.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigación preliminar por peculado de uso: usó vehículo oficial de Palacio durante licencia sin goce (30-31 dic 2021). Fiscal Andrés Montoya realizó diligencia en Palacio en enero 2022.",
@@ -318,52 +329,51 @@
     "slug": "cesar-acuna-peralta",
     "nombre": "César Acuña Peralta",
     "partido": "Alianza para el Progreso",
-    "foto": "/candidates/cesar-acuna-peralta.webp",
     "calificacion": "sentenciado",
     "resumen_polemicas": [
       "132 expedientes fiscales en el Ministerio Público desde 2000; 8 carpetas activas incluyendo tráfico de influencias, cohecho y concusión.",
-    "Sentencia firme (Exp. 02974-2023): obligado por el PJ a pagar S/30,000/mes de pensión alimenticia; apeló y se resistió pese a declarar ingresos de S/9.8M/año.",
-    "4 denuncias policiales por violencia familiar interpuestas por su expareja Jenny Gutiérrez Vaisman (2018-2020); APP afirma que procesos penales están archivados.",
-    "Investigación fiscal (abr. 2025) por presunta colusión: S/2M de fondos del GORE La Libertad habrían sido destinados a publicidad con fines electorales.",
-    "Contraloría: Fiscalía Anticorrupción intervino el GORE La Libertad por contratos de S/315.6M adjudicados a empresa vinculada a joven de 23 años.",
-    "Contraloría detectó perjuicio de S/2'306,438 en programa Procompite 2023; 5 funcionarios con indicios de responsabilidad penal; concursos 2023 y 2024 fueron anulados.",
-    "Hermano Óscar Acuña cuenta con orden de detención del Poder Judicial por presunto cobro de sobornos durante la gestión regional.",
-    "Fiscalía investiga 29 contratos en EsSalud vinculados a la familia Horna, con nexo a allegados del entorno de Acuña."
-  ],
+      "Sentencia firme (Exp. 02974-2023): obligado por el PJ a pagar S/30,000/mes de pensión alimenticia; apeló y se resistió pese a declarar ingresos de S/9.8M/año.",
+      "4 denuncias policiales por violencia familiar interpuestas por su expareja Jenny Gutiérrez Vaisman (2018-2020); APP afirma que procesos penales están archivados.",
+      "Investigación fiscal (abr. 2025) por presunta colusión: S/2M de fondos del GORE La Libertad habrían sido destinados a publicidad con fines electorales.",
+      "Contraloría: Fiscalía Anticorrupción intervino el GORE La Libertad por contratos de S/315.6M adjudicados a empresa vinculada a joven de 23 años.",
+      "Contraloría detectó perjuicio de S/2'306,438 en programa Procompite 2023; 5 funcionarios con indicios de responsabilidad penal; concursos 2023 y 2024 fueron anulados.",
+      "Hermano Óscar Acuña cuenta con orden de detención del Poder Judicial por presunto cobro de sobornos durante la gestión regional.",
+      "Fiscalía investiga 29 contratos en EsSalud vinculados a la familia Horna, con nexo a allegados del entorno de Acuña."
+    ],
     "fuentes": [
-    {
-      "medio": "LP Derecho",
-      "url": "https://lpderecho.pe/confirman-sentencia-ordena-cesar-acuna-pagar-30-000-soles-cada-mes-pension-alimenticia-favor-menor-hijo-exp-02974-2023"
-    },
-    {
-      "medio": "La República",
-      "url": "https://larepublica.pe/politica/2025/12/28/cesar-acuna-obligado-por-sentencia-a-pagar-alimentos-para-su-menor-hijo-cesar-acuna-peralta-jenny-gutierrez-vaisman-hnews-2609496"
-    },
-    {
-      "medio": "Infobae Perú",
-      "url": "https://www.infobae.com/peru/2025/05/22/fiscalia-investiga-a-cesar-acuna-por-destinar-s-2-millones-de-dinero-publico-para-publicidad-su-objetivo-es-ser-presidente"
-    },
-    {
-      "medio": "Wayka",
-      "url": "https://wayka.pe/contratos-bajo-investigacion-cesar-acuna-entrego-s-315-millones-a-empresa-de-joven-de-23-anos/"
-    },
-    {
-      "medio": "América TV / Canal N",
-      "url": "https://canaln.pe/actualidad/contraloria-detecta-perjuicio-s23-millones-gestion-acuna-n491030"
-    },
-    {
-      "medio": "América TV",
-      "url": "https://www.americatv.com.pe/noticias/actualidad/contraloria-detecta-perjuicio-gestion-cesar-acuna-n516790"
-    },
-    {
-      "medio": "La República",
-      "url": "https://larepublica.pe/politica/2026/03/20/contraloria-acusa-a-6-exfuncionarios-de-cesar-acuna-por-malos-manejos-en-programa-de-s116-millones-alianza-para-el-progreso-contraloria-hnews-861420"
-    },
-    {
-      "medio": "Ministerio Público",
-      "url": "https://www.gob.pe/institucion/mpfn/noticias/647443-fiscalia-inicia-diligencias-por-investigacion-contra-cesar-acuna"
-    }
-  ],
+      {
+        "medio": "LP Derecho",
+        "url": "https://lpderecho.pe/confirman-sentencia-ordena-cesar-acuna-pagar-30-000-soles-cada-mes-pension-alimenticia-favor-menor-hijo-exp-02974-2023"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2025/12/28/cesar-acuna-obligado-por-sentencia-a-pagar-alimentos-para-su-menor-hijo-cesar-acuna-peralta-jenny-gutierrez-vaisman-hnews-2609496"
+      },
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2025/05/22/fiscalia-investiga-a-cesar-acuna-por-destinar-s-2-millones-de-dinero-publico-para-publicidad-su-objetivo-es-ser-presidente"
+      },
+      {
+        "medio": "Wayka",
+        "url": "https://wayka.pe/contratos-bajo-investigacion-cesar-acuna-entrego-s-315-millones-a-empresa-de-joven-de-23-anos/"
+      },
+      {
+        "medio": "América TV / Canal N",
+        "url": "https://canaln.pe/actualidad/contraloria-detecta-perjuicio-s23-millones-gestion-acuna-n491030"
+      },
+      {
+        "medio": "América TV",
+        "url": "https://www.americatv.com.pe/noticias/actualidad/contraloria-detecta-perjuicio-gestion-cesar-acuna-n516790"
+      },
+      {
+        "medio": "La República",
+        "url": "https://larepublica.pe/politica/2026/03/20/contraloria-acusa-a-6-exfuncionarios-de-cesar-acuna-por-malos-manejos-en-programa-de-s116-millones-alianza-para-el-progreso-contraloria-hnews-861420"
+      },
+      {
+        "medio": "Ministerio Público",
+        "url": "https://www.gob.pe/institucion/mpfn/noticias/647443-fiscalia-inicia-diligencias-por-investigacion-contra-cesar-acuna"
+      }
+    ],
     "tags": [
       "Centro-derecha",
       "Empresario educativo",
@@ -375,7 +385,6 @@
     "slug": "charlie-carrasco-salazar",
     "nombre": "Charlie Carrasco Salazar",
     "partido": "Partido Demócrata Unido Perú",
-    "foto": "/candidates/charlie-carrasco-salazar.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Declaró que el Congreso es 'ratero y miserable' durante debate presidencial del JNE",
@@ -421,7 +430,6 @@
     "slug": "fiorella-molinelli-aristondo",
     "nombre": "Fiorella Giannina Molinelli Aristondo",
     "partido": "Fuerza y Libertad",
-    "foto": "/candidates/fiorella-molinelli-aristondo.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Ordenada a juicio oral por colusión agravada en caso aeropuerto Chinchero; Fiscalía pide 10 años de prisión",
@@ -458,24 +466,41 @@
     "slug": "francisco-diez-canseco-tavara",
     "nombre": "Francisco Ernesto Diez-Canseco Távara",
     "partido": "Perú Acción",
-    "foto": "/candidates/francisco-diez-canseco-tavara.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
-    "Propuso pena de muerte para presidentes corruptos y retirar a Perú del Sistema Interamericano de Derechos Humanos",
-    "En el 2° debate presidencial calificó al INPE de 'antro de corrupción' y afirmó que sus autoridades se reparten 3,5 millones de soles en coimas ",
-    "Denunció al JNE de intentar invalidar ilegalmente a Perú Acción y amenazó con demandar al presidente del JNE por difamación ",
-    "Acusa sin evidencia documental al gobierno y al MEF de tener un 'pacto corrupto' para favorecer a APP en las elecciones 2026 ",
-    "Su entrevista radial de 2010 fue citada por la FIDH como ejemplo de campaña de estigmatización contra organizaciones de derechos humanos en Perú",
-    "Desde su rol en el Consejo por la Paz, se ha dedicado sistemáticamente a desprestigiar el informe de la Comisión de la Verdad y Reconciliación"
-  ],
+      "Propuso pena de muerte para presidentes corruptos y retirar a Perú del Sistema Interamericano de Derechos Humanos",
+      "En el 2° debate presidencial calificó al INPE de 'antro de corrupción' y afirmó que sus autoridades se reparten 3,5 millones de soles en coimas ",
+      "Denunció al JNE de intentar invalidar ilegalmente a Perú Acción y amenazó con demandar al presidente del JNE por difamación ",
+      "Acusa sin evidencia documental al gobierno y al MEF de tener un 'pacto corrupto' para favorecer a APP en las elecciones 2026 ",
+      "Su entrevista radial de 2010 fue citada por la FIDH como ejemplo de campaña de estigmatización contra organizaciones de derechos humanos en Perú",
+      "Desde su rol en el Consejo por la Paz, se ha dedicado sistemáticamente a desprestigiar el informe de la Comisión de la Verdad y Reconciliación"
+    ],
     "fuentes": [
-    { "medio": "Infobae Perú", "url": "https://www.infobae.com/peru/2026/01/11/francisco-diez-canseco-plantea-pena-de-muerte-para-presidentes-corruptos-viven-en-una-carcel-de-lujo-con-nuestros-impuestos/" },
-    { "medio": "Exitosa Noticias", "url": "https://www.exitosanoticias.pe/politica/francisco-diez-canseco-califica-inpe-antro-corrupcion-3-millones-soles-reparten-coima-n171986" },
-    { "medio": "Canal N", "url": "https://canaln.pe/actualidad/diez-canseco-denuncia-intento-jne-invalidar-peru-accion-n486694" },
-    { "medio": "Expreso", "url": "https://www.expreso.com.pe/politica/francisco-diez-canseco-denuncia-fraude-en-marcha-por-comicios-senala-a-app-y-otros-partidos-jne-cesar-acuna-noticia/1267718/" },
-    { "medio": "FIDH (Observatorio de Defensores de DDHH 2010-2011)", "url": "https://www.fidh.org/en/region/americas/peru/PERU-2010-2011" },
-    { "medio": "Andina", "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-francisco-diezcanseco-peru-accion-1065392.aspx" }
-  ],
+      {
+        "medio": "Infobae Perú",
+        "url": "https://www.infobae.com/peru/2026/01/11/francisco-diez-canseco-plantea-pena-de-muerte-para-presidentes-corruptos-viven-en-una-carcel-de-lujo-con-nuestros-impuestos/"
+      },
+      {
+        "medio": "Exitosa Noticias",
+        "url": "https://www.exitosanoticias.pe/politica/francisco-diez-canseco-califica-inpe-antro-corrupcion-3-millones-soles-reparten-coima-n171986"
+      },
+      {
+        "medio": "Canal N",
+        "url": "https://canaln.pe/actualidad/diez-canseco-denuncia-intento-jne-invalidar-peru-accion-n486694"
+      },
+      {
+        "medio": "Expreso",
+        "url": "https://www.expreso.com.pe/politica/francisco-diez-canseco-denuncia-fraude-en-marcha-por-comicios-senala-a-app-y-otros-partidos-jne-cesar-acuna-noticia/1267718/"
+      },
+      {
+        "medio": "FIDH (Observatorio de Defensores de DDHH 2010-2011)",
+        "url": "https://www.fidh.org/en/region/americas/peru/PERU-2010-2011"
+      },
+      {
+        "medio": "Andina",
+        "url": "https://andina.pe/agencia/noticia-elecciones-2026-esta-es-hoja-vida-francisco-diezcanseco-peru-accion-1065392.aspx"
+      }
+    ],
     "tags": [
       "Conservador",
       "Abogado/Periodista",
@@ -487,7 +512,6 @@
     "slug": "george-patrick-forsyth-sommer",
     "nombre": "George Patrick Forsyth Sommer",
     "partido": "Partido Democrático Somos Perú",
-    "foto": "/candidates/george-patrick-forsyth-sommer.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigación judicial ampliada hasta mayo 2026 por presunta colusión agravada durante su gestión como alcalde de La Victoria (2019-2020)",
@@ -533,7 +557,6 @@
     "slug": "herbert-caller-gutierrez",
     "nombre": "Herbert Caller Gutiérrez",
     "partido": "Partido Patriótico del Perú",
-    "foto": "/candidates/herbert-caller-gutierrez.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "JEE detectó que omitió declarar sentencia firme de S/84,000 por ejecución de garantías en su hoja de vida electoral",
@@ -571,7 +594,6 @@
     "slug": "jorge-nieto-montesinos",
     "nombre": "Jorge Nieto Montesinos",
     "partido": "Partido del Buen Gobierno",
-    "foto": "/candidates/jorge-nieto-montesinos.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigación fiscal abierta por presunto lavado de activos: recibió 120 mil dólares de constructora OAS (caso Chalinas Verdes)",
@@ -617,7 +639,6 @@
     "slug": "jose-daniel-williams-zapata",
     "nombre": "José Daniel Williams Zapata",
     "partido": "Avanza País - Partido de Integración Social",
-    "foto": "/candidates/jose-daniel-williams-zapata.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Vinculado al caso Masacre de Accomarca (1985) por presunto encubrimiento según testigo sentenciado",
@@ -665,7 +686,6 @@
     "slug": "jose-leon-luna-galvez",
     "nombre": "José León Luna Gálvez",
     "partido": "Podemos Perú",
-    "foto": "/candidates/jose-leon-luna-galvez.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Fiscalía pide 22 años y 8 meses por liderar org. criminal 'Los Gángsters de la Política' (caso ONPE/CNM, 2025).",
@@ -730,7 +750,6 @@
     "slug": "keiko-fujimori",
     "nombre": "Keiko Sofía Fujimori Higuchi",
     "partido": "Fuerza Popular",
-    "foto": "/candidates/keiko-fujimori.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Caso Cócteles: investigada por lavado de activos por aportes ilegales de Odebrecht ($1.2M). Archivado por TC Sentencia 185/2025.",
@@ -791,7 +810,6 @@
     "slug": "luis-fernando-olivera-vega",
     "nombre": "Luis Fernando Olivera Vega",
     "partido": "Frente de la Esperanza 2021",
-    "foto": "/candidates/luis-fernando-olivera-vega.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigado por colusión agravada en caso Odebrecht/Carretera Interoceánica Sur. PJ rechazó su pedido de apartamiento en marzo 2024.",
@@ -838,7 +856,6 @@
     "slug": "maria-soledad-perez-tello-de-rodriguez",
     "nombre": "María Soledad Pérez Tello de Rodríguez",
     "partido": "Primero La Gente",
-    "foto": "/candidates/maria-soledad-perez-tello-de-rodriguez.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "JEE alertó que omitió declarar sentencia laboral de pago S/746 a Profuturo AFP en hoja de vida",
@@ -889,7 +906,6 @@
     "slug": "mario-vizcarra-cornejo",
     "nombre": "Mario Enrique Vizcarra Cornejo",
     "partido": "Perú Primero",
-    "foto": "/candidates/mario-vizcarra-cornejo.webp",
     "calificacion": "sentenciado",
     "resumen_polemicas": [
       "Condenado en 2005 por peculado por cobrar doble remuneración cuando presidía el CTAR Moquegua; sentencia firme con pena privativa de libertad suspendida.",
@@ -939,7 +955,6 @@
     "slug": "mesias-antonio-guevara-amasifuen",
     "nombre": "Mesías Antonio Guevara Amasifuen",
     "partido": "Partido Morado",
-    "foto": "/candidates/mesias-antonio-guevara-amasifuen.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Fiscal de la Nación lo denunció ante Comisión de Ética del Congreso en 2014 por no respetar debido proceso en investigaciones de Comisión Áncash",
@@ -984,7 +999,6 @@
     "slug": "pablo-alfonso-lopez-chau-nava",
     "nombre": "Pablo Alfonso López-Chau Nava",
     "partido": "Ahora Nación",
-    "foto": "/candidates/pablo-alfonso-lopez-chau-nava.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Acusado por Fiscalía de colusión y peculado doloso por contrataciones irregulares cuando era rector de la UNI. Fiscalía solicita 5 años de cárcel.",
@@ -1025,7 +1039,6 @@
     "slug": "paul-davis-jaimes-blanco",
     "nombre": "Paul Davis Jaimes Blanco",
     "partido": "Progresemos",
-    "foto": "/candidates/paul-davis-jaimes-blanco.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Denunciado por violencia familiar y agresión física a su hermana en Comisaría del Rímac (2022)",
@@ -1066,7 +1079,6 @@
     "slug": "pitter-enrique-valderrama-penata",
     "nombre": "Pitter Enrique Valderrama Peñata",
     "partido": "Partido Aprista Peruano (APRA)",
-    "foto": "/candidates/pitter-enrique-valderrama-penata.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Acusado en 2012 de hurto de laptop y televisor por excompañero de vivienda; caso no pasó de ocurrencia policial sin denuncia formal",
@@ -1112,7 +1124,6 @@
     "slug": "rafael-jorge-belaunde-llosa",
     "nombre": "Rafael Jorge Belaunde Llosa",
     "partido": "Libertad Popular",
-    "foto": "/candidates/rafael-jorge-belaunde-llosa.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Cuestionado por 'puerta giratoria': vínculos con mineras antes de ser ministro de Energía y Minas en 2020.",
@@ -1153,7 +1164,6 @@
     "slug": "rafael-lopez-aliaga",
     "nombre": "Rafael Bernardo López Aliaga Cazorla",
     "partido": "Renovación Popular",
-    "foto": "/candidates/rafael-lopez-aliaga.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigación fiscal por lavado de activos agravado (Carpeta Fiscal 87-2017) formalizada desde julio 2022, vinculada a contratos irregulares entre Caja Metropolitana y sus empresas ACRES por S/ 1.3 millones.",
@@ -1208,7 +1218,6 @@
     "slug": "ricardo-pablo-belmont-cassinellita",
     "nombre": "Ricardo Pablo Belmont Cassinellita",
     "partido": "Partido Cívico Obras",
-    "foto": "/candidates/ricardo-pablo-belmont-cassinellita.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Fiscalía formalizó acusación por usurpación y hurto agravado en toma de Radio PBO (2022). Riesgo de 7 años de prisión.",
@@ -1249,7 +1258,6 @@
     "slug": "roberto-enrique-chiabra-leon",
     "nombre": "Roberto Enrique Chiabra León",
     "partido": "Alianza Unidad Nacional (coalición con PPC)",
-    "foto": "/candidates/roberto-enrique-chiabra-leon.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Denuncia constitucional de Fiscalía por negociación incompatible en ley de doble sueldo militar (2025)",
@@ -1299,7 +1307,6 @@
     "slug": "roberto-helbert-sanchez-palomino",
     "nombre": "Roberto Helbert Sánchez Palomino",
     "partido": "Juntos por el Perú",
-    "foto": "/candidates/roberto-helbert-sanchez-palomino.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigado por rebelión y conspiración en intento de autogolpe de Pedro Castillo (2022)",
@@ -1341,7 +1348,6 @@
     "slug": "ronald-atencio-sotomayor",
     "nombre": "Ronald Darwin Atencio Sotomayor",
     "partido": "Alianza Electoral Venceremos",
-    "foto": "/candidates/ronald-atencio-sotomayor.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Investigación fiscal abierta por presunto patrocinio ilegal en agravio del Estado (2022-vigente)",
@@ -1380,7 +1386,6 @@
     "slug": "rosario-del-pilar-fernandez-bazan",
     "nombre": "Rosario del Pilar Fernández Bazán",
     "partido": "Un Camino Diferente",
-    "foto": "/candidates/rosario-del-pilar-fernandez-bazan.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Denunciada penalmente por agresiones a la PNP y daños a sede judicial en Trujillo (dic. 2025).",
@@ -1429,7 +1434,6 @@
     "slug": "vladimir-cerron",
     "nombre": "Vladimir Roy Cerrón Rojas",
     "partido": "Perú Libre",
-    "foto": "/candidates/vladimir-cerron.webp",
     "calificacion": "sentenciado",
     "resumen_polemicas": [
       "Sentencia firme de extinción de dominio por S/ 1.6 millones por incremento patrimonial no justificado (2025)",
@@ -1483,7 +1487,6 @@
     "slug": "walter-gilmer-chirinos-purizaga",
     "nombre": "Walter Gilmer Chirinos Purizaga",
     "partido": "Partido Político PRIN",
-    "foto": "/candidates/walter-gilmer-chirinos-purizaga.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Afirmó que Vladimiro Montesinos participó en su plan de gobierno como estratega en seguridad, generando fuerte rechazo político.",
@@ -1528,7 +1531,6 @@
     "slug": "wolfgang-mario-grozo-costa",
     "nombre": "Wolfgang Mario Grozo Costa",
     "partido": "Integridad Democrática",
-    "foto": "/candidates/wolfgang-mario-grozo-costa.webp",
     "calificacion": "polemico",
     "resumen_polemicas": [
       "Declaró error de digitación en su declaración jurada: inicialmente S/ 277 millones, corregido a S/ 256 mil soles ante el JNE",
@@ -1573,7 +1575,6 @@
     "slug": "yonhy-lescano-ancieta",
     "nombre": "Yonhy Lescano Ancieta",
     "partido": "Cooperación Popular",
-    "foto": "/candidates/yonhy-lescano-ancieta.webp",
     "calificacion": "investigado",
     "resumen_polemicas": [
       "Suspendido 120 días por Congreso en 2019 por acoso sexual a periodista. Investigación penal archivada en 2020 pero caso sigue vigente en opinión pública.",

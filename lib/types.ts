@@ -1,4 +1,8 @@
-export type CandidateCalificacion = "investigado" | "polemico" | "sentenciado" | "sin_registros";
+export type CandidateCalificacion =
+  | "investigado"
+  | "polemico"
+  | "sentenciado"
+  | "sin_registros";
 
 export interface CandidateFuente {
   medio: string;
@@ -10,22 +14,14 @@ export interface CandidateRaw {
   slug: string;
   nombre: string;
   partido: string;
-  foto: string;
-  calificacion: string;
+  calificacion: unknown;
   resumen_polemicas: string[];
   fuentes: CandidateFuente[];
   tags: string[];
 }
 
-export interface Candidate {
-  id: string;
-  slug: string;
-  nombre: string;
-  partido: string;
+export interface Candidate extends Omit<CandidateRaw, "calificacion"> {
   foto: string;
   logoPartido: string;
   calificacion: CandidateCalificacion;
-  resumen_polemicas: string[];
-  fuentes: CandidateFuente[];
-  tags: string[];
 }
