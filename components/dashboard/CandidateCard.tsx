@@ -40,7 +40,7 @@ export function CandidateCard({ candidate, prioritizeImage = false }: CandidateC
           className="object-cover grayscale transition-all duration-300 group-hover:scale-[1.03] group-hover:grayscale-0"
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent" />
-        <div className="absolute right-3 top-3 h-12 w-12 overflow-hidden border border-white/15 bg-black/55 p-1 backdrop-blur-sm" aria-hidden="true">
+        <div className="absolute right-3 top-3 h-12 w-12 overflow-hidden rounded-md" aria-hidden="true">
           <Image
             src={candidate.logoPartido}
             alt=""

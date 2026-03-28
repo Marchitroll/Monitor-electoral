@@ -101,6 +101,15 @@ function isCandidateFuente(value: unknown): value is CandidateFuente {
   return isNonEmptyString(item.medio) && isNonEmptyString(item.url);
 }
 
+function isCandidateCalificacion(value: unknown): value is CandidateCalificacion {
+  return (
+    value === "investigado" ||
+    value === "polemico" ||
+    value === "sentenciado" ||
+    value === "sin_registros"
+  );
+}
+
 export function isCandidateRaw(value: unknown): value is CandidateRaw {
   if (typeof value !== "object" || value === null) return false;
 
@@ -111,6 +120,7 @@ export function isCandidateRaw(value: unknown): value is CandidateRaw {
     !isNonEmptyString(item.slug) ||
     !isNonEmptyString(item.nombre) ||
     !isNonEmptyString(item.partido) ||
+    !isCandidateCalificacion(item.calificacion) ||
     !Array.isArray(item.resumen_polemicas) ||
     !item.resumen_polemicas.every(isNonEmptyString) ||
     !Array.isArray(item.fuentes) ||

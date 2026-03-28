@@ -1,5 +1,4 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
 import type { Metadata } from "next";
 
 import { AIAnalysis } from "@/components/candidato/AIAnalysis";
@@ -115,36 +114,6 @@ export default async function CandidateDetailPage({ params }: CandidateDetailPag
         <CandidateSidebar candidate={candidate} />
 
         <section className="flex-1 bg-background p-6 sm:p-10 lg:p-12">
-          {/* Mobile candidate card */}
-          <div className="mb-8 border border-outline bg-[#121212] p-3 sm:p-4 lg:hidden">
-            <div className="flex items-center gap-3">
-              <div className="relative h-16 w-16 shrink-0 overflow-hidden border border-outline bg-outline">
-                <Image
-                  src={candidate.foto}
-                  alt={`Retrato de ${candidate.nombre}`}
-                  fill
-                  sizes="64px"
-                  className="object-cover"
-                />
-              </div>
-              <div className="min-w-0 flex-1">
-                <p className="truncate text-sm font-bold uppercase text-white">{candidate.nombre}</p>
-                <p className="mt-1 truncate text-[10px] uppercase tracking-[0.12em] text-on-surface-muted">
-                  {candidate.partido}
-                </p>
-              </div>
-              <div className="h-10 w-10 shrink-0 overflow-hidden border border-outline bg-surface-container-high p-1.5">
-                <Image
-                  src={candidate.logoPartido}
-                  alt={`Logo de ${candidate.partido}`}
-                  width={40}
-                  height={40}
-                  className="h-full w-full object-contain"
-                />
-              </div>
-            </div>
-          </div>
-
           {/* Page header */}
           <header className="mb-10">
             <h2 className="mb-1 text-2xl font-bold tracking-tight text-white">

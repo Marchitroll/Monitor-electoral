@@ -27,7 +27,7 @@ export function CandidateSidebar({ candidate }: CandidateSidebarProps) {
             <h1 className="text-xl font-bold uppercase leading-tight text-white sm:text-2xl">{candidate.nombre}</h1>
             <div className="mt-2 flex items-center justify-between gap-3">
               <span className="text-[10px] uppercase tracking-[0.16em] text-on-surface-muted">{candidate.partido}</span>
-              <div className="h-14 w-14 overflow-hidden border border-outline bg-surface-container-high p-2">
+              <div className="h-14 w-14 overflow-hidden rounded-md">
                 <Image
                   src={candidate.logoPartido}
                   alt={`Logo de ${candidate.partido}`}
