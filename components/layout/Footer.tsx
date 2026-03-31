@@ -26,7 +26,7 @@ export function Footer() {
         {/* Last update + disclaimer */}
         <div className="flex flex-col items-center text-center sm:items-end">
           <p className="text-[10px] uppercase tracking-[0.12em] text-white">
-            Última actualización: 27 de marzo de 2026
+            Última actualización: 30 de marzo de 2026
           </p>
           <p className="text-[10px] uppercase tracking-[0.12em] text-on-surface-subtle">
             <AIDisclaimerText />
