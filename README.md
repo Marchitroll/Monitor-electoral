@@ -46,7 +46,7 @@ Para reducir alucinaciones, validé cada perfil cruzando respuestas de múltiple
 
 ## ¿Cómo se usó Cubepath?
 
-Desplegué el frontend en Next.js (App Router) utilizando la infraestructura de CubePath para servir el sitio mediante Static Site Generation (SSG). La plataforma gestiona el ciclo de vida de la aplicación conectando directamente el repositorio de GitHub, automatizando los builds y sirviendo el Master JSON de candidatos a través de su CDN global. Esto garantiza latencia mínima, escalabilidad ante picos de tráfico electoral sin necesidad de gestionar servidores manuales.
+Seguí el tutorial de midudev utilizando un VPS de CubePath con Dokploy instalado mediante “Apps de 1-click”. Luego conecté mi repositorio de GitHub, y Dokploy se encarga de automatizar el build estático de Next.js, sirviendo tanto el frontend como el Master JSON directamente desde el servidor. Esto me permite tener control total sobre la infraestructura, reducir al mínimo la latencia y no depender de plataformas externas.
 
 ## Ejecución local
 
