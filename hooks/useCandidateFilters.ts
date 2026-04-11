@@ -2,26 +2,22 @@
 
 import { useMemo, useState } from "react";
 
-import type { Candidate, CandidateCalificacion } from "@/lib/types";
-
-const ALL_CALIFICACIONES = "todas" as const;
-const CALIFICACION_ORDER: CandidateCalificacion[] = [
-  "sentenciado",
-  "investigado",
-  "polemico",
-  "sin_registros",
-];
-
-type CalificacionFilterOption = CandidateCalificacion | typeof ALL_CALIFICACIONES;
+import {
+  ALL_CALIFICACIONES_OPTION,
+  CALIFICACION_ORDER,
+  type Candidate,
+  type CalificacionFilterOption,
+  type CandidateCalificacion,
+} from "@/lib/types";
 
 export function useCandidateFilters(candidates: Candidate[]) {
   const [selectedCalificacion, setSelectedCalificacion] =
-    useState<CalificacionFilterOption>(ALL_CALIFICACIONES);
+    useState<CalificacionFilterOption>(ALL_CALIFICACIONES_OPTION);
   const [query, setQuery] = useState("");
 
   const calificaciones = useMemo<CalificacionFilterOption[]>(
     () => [
-      ALL_CALIFICACIONES,
+      ALL_CALIFICACIONES_OPTION,
       ...CALIFICACION_ORDER.filter((calificacion) =>
         candidates.some((candidate) => candidate.calificacion === calificacion),
       ),
@@ -34,7 +30,7 @@ export function useCandidateFilters(candidates: Candidate[]) {
 
     return candidates.filter((candidate) => {
       const calificacionMatches =
-        selectedCalificacion === ALL_CALIFICACIONES ||
+        selectedCalificacion === ALL_CALIFICACIONES_OPTION ||
         candidate.calificacion === selectedCalificacion;
       const searchMatches =
         normalizedQuery.length === 0 ||
@@ -65,19 +61,22 @@ export function useCandidateFilters(candidates: Candidate[]) {
   }, [candidates]);
 
   function clearFilters() {
-    setSelectedCalificacion(ALL_CALIFICACIONES);
+    setSelectedCalificacion(ALL_CALIFICACIONES_OPTION);
     setQuery("");
   }
 
   function setSelectedCalificacionFromInput(value: string) {
-    if (value === ALL_CALIFICACIONES || CALIFICACION_ORDER.includes(value as CandidateCalificacion)) {
+    if (
+      value === ALL_CALIFICACIONES_OPTION ||
+      CALIFICACION_ORDER.includes(value as CandidateCalificacion)
+    ) {
       setSelectedCalificacion(value as CalificacionFilterOption);
     }
   }
 
   return {
     calificaciones,
-    allCalificacionesOption: ALL_CALIFICACIONES,
+    allCalificacionesOption: ALL_CALIFICACIONES_OPTION,
     selectedCalificacion,
     setSelectedCalificacion,
     setSelectedCalificacionFromInput,

@@ -1,13 +1,15 @@
+import type { CandidateCalificacion } from "@/lib/types";
+
 interface AIAnalysisProps {
   paragraphs: string[];
-  calificacion: "sentenciado" | "investigado" | "polemico" | "limpio" | string;
+  calificacion: CandidateCalificacion;
 }
 
-const statusColorMap: Record<string, string> = {
-  sentenciado: "marker:text-red-500",
-  investigado: "marker:text-orange-500",
-  polemico: "marker:text-yellow-500",
-  limpio: "marker:text-emerald-500",
+const statusColorMap: Record<CandidateCalificacion, string> = {
+  sentenciado: "border-l-primary",
+  investigado: "border-l-[#c9962a]",
+  polemico: "border-l-warning",
+  sin_registros: "border-l-outline",
 };
 
 export function AIAnalysis({ paragraphs, calificacion }: AIAnalysisProps) {
@@ -23,11 +25,16 @@ export function AIAnalysis({ paragraphs, calificacion }: AIAnalysisProps) {
 
   return (
     <article className="mb-16 max-w-3xl">
-      <ul className={`list-disc space-y-6 pl-6 text-lg leading-[1.7] text-on-background ${markerClass}`}>
+      <div className="space-y-6 text-lg leading-[1.7] text-on-background">
         {paragraphs.map((paragraph, index) => (
-          <li key={`${paragraph.slice(0, 16)}-${index}`}>{paragraph}</li>
+          <p
+            key={`${paragraph.slice(0, 16)}-${index}`}
+            className={`border-l-2 pl-4 ${markerClass}`}
+          >
+            {paragraph}
+          </p>
         ))}
-      </ul>
+      </div>
     </article>
   );
 }

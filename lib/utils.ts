@@ -1,4 +1,7 @@
-import type { CandidateCalificacion } from "@/lib/types";
+import {
+  CANDIDATE_CALIFICACIONES,
+  type CandidateCalificacion,
+} from "@/lib/types";
 
 const CALIFICACION_LABELS: Record<CandidateCalificacion, string> = {
   sentenciado: "Sentenciado",
@@ -7,16 +10,11 @@ const CALIFICACION_LABELS: Record<CandidateCalificacion, string> = {
   sin_registros: "Sin registros",
 };
 
-const CALIFICACIONES_VALIDAS = [
-  "investigado",
-  "polemico",
-  "sentenciado",
-] as const;
-
-type CalificacionValida = (typeof CALIFICACIONES_VALIDAS)[number];
-
-function isCandidateCalificacion(value: string): value is CalificacionValida {
-  return CALIFICACIONES_VALIDAS.includes(value as CalificacionValida);
+export function isCandidateCalificacion(value: unknown): value is CandidateCalificacion {
+  return (
+    typeof value === "string" &&
+    CANDIDATE_CALIFICACIONES.includes(value as CandidateCalificacion)
+  );
 }
 
 const CALIFICACION_BADGE_CLASSES: Record<CandidateCalificacion, string> = {
@@ -39,9 +37,7 @@ export function normalizeCalificacion(value: unknown): CandidateCalificacion {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 
-  return isCandidateCalificacion(normalized)
-    ? normalized
-    : "sin_registros";
+  return isCandidateCalificacion(normalized) ? normalized : "sin_registros";
 }
 
 export function calificacionLabel(

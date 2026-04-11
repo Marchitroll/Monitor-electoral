@@ -1,8 +1,19 @@
-export type CandidateCalificacion =
-  | "investigado"
-  | "polemico"
-  | "sentenciado"
-  | "sin_registros";
+export const CANDIDATE_CALIFICACIONES = [
+  "sentenciado",
+  "investigado",
+  "polemico",
+  "sin_registros",
+] as const;
+
+export type CandidateCalificacion = (typeof CANDIDATE_CALIFICACIONES)[number];
+
+export const ALL_CALIFICACIONES_OPTION = "todas" as const;
+
+export type CalificacionFilterOption =
+  | CandidateCalificacion
+  | typeof ALL_CALIFICACIONES_OPTION;
+
+export const CALIFICACION_ORDER: CandidateCalificacion[] = [...CANDIDATE_CALIFICACIONES];
 
 export interface CandidateFuente {
   medio: string;

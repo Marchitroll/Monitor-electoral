@@ -18,6 +18,7 @@ interface CandidateDetailPageProps {
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export const dynamicParams = false;
+export const revalidate = 3600;
 
 export function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));

@@ -1,5 +1,5 @@
-import type { Candidate, CandidateCalificacion, CandidateFuente, CandidateRaw } from "@/lib/types";
-import { normalizeCalificacion } from "@/lib/utils";
+import type { Candidate, CandidateFuente, CandidateRaw } from "@/lib/types";
+import { isCandidateCalificacion, normalizeCalificacion } from "@/lib/utils";
 
 const PHOTO_FALLBACK = "/images/placeholders/candidato.svg";
 const PARTY_LOGO_FALLBACK = "/images/placeholders/partido.svg";
@@ -99,15 +99,6 @@ function isCandidateFuente(value: unknown): value is CandidateFuente {
 
   const item = value as Record<string, unknown>;
   return isNonEmptyString(item.medio) && isNonEmptyString(item.url);
-}
-
-function isCandidateCalificacion(value: unknown): value is CandidateCalificacion {
-  return (
-    value === "investigado" ||
-    value === "polemico" ||
-    value === "sentenciado" ||
-    value === "sin_registros"
-  );
 }
 
 export function isCandidateRaw(value: unknown): value is CandidateRaw {

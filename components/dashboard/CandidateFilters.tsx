@@ -3,15 +3,8 @@
 import { useCallback, useRef, useState } from "react";
 
 import { useClickOutside } from "@/hooks/useClickOutside";
-import type { CandidateCalificacion } from "@/lib/types";
+import { CALIFICACION_ORDER, type CandidateCalificacion } from "@/lib/types";
 import { calificacionBadgeClass, calificacionLabel, calificacionLabelPlural } from "@/lib/utils";
-
-const CALIFICACIONES_ORDERED: CandidateCalificacion[] = [
-  "sentenciado",
-  "investigado",
-  "polemico",
-  "sin_registros",
-];
 
 type CalificacionCounts = Record<CandidateCalificacion, number>;
 
@@ -61,7 +54,26 @@ export function CandidateFilters({
     if (event.key === "Enter" || event.key === " ") {
       event.preventDefault();
       handleOptionSelect(value);
+      return;
     }
+
+    if (event.key !== "ArrowDown" && event.key !== "ArrowUp") {
+      return;
+    }
+
+    const options = Array.from(
+      event.currentTarget.parentElement?.querySelectorAll<HTMLElement>('[role="option"]') ?? [],
+    );
+
+    if (options.length === 0) {
+      return;
+    }
+
+    event.preventDefault();
+    const currentIndex = options.indexOf(event.currentTarget as HTMLElement);
+    const delta = event.key === "ArrowDown" ? 1 : -1;
+    const nextIndex = (currentIndex + delta + options.length) % options.length;
+    options[nextIndex]?.focus();
   }
 
   return (
@@ -89,7 +101,7 @@ export function CandidateFilters({
           <input
             id="search-filter"
             type="search"
-            className="w-full bg-transparent text-xs tracking-[0.08em] text-on-background placeholder:text-on-surface-muted focus:outline-none focus-visible:outline-none"
+            className="w-full bg-transparent text-xs tracking-[0.08em] text-on-background placeholder:text-on-surface-muted"
             placeholder="Buscar candidato o tag"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
@@ -191,7 +203,7 @@ export function CandidateFilters({
             {resultCount} candidatos encontrados
           </p>
           <div className="flex flex-wrap gap-2">
-            {CALIFICACIONES_ORDERED.map((cal) => (
+            {CALIFICACION_ORDER.map((cal) => (
               <span
                 key={cal}
                 className={`px-2 py-0.5 text-[9px] font-bold uppercase tracking-[0.10em] ${calificacionBadgeClass(cal)}`}

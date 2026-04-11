@@ -20,14 +20,13 @@ export function TopAppBar({
     >
       {/* Left: wordmark + subtitle */}
       <div className="flex items-center gap-4">
-        <h1>
-          <Link
-            href="/"
-            className="text-xl font-bold tracking-tight text-white transition-opacity hover:opacity-80 sm:text-2xl"
-          >
-            Monitor Electoral
-          </Link>
-        </h1>
+        <Link
+          href="/"
+          className="text-xl font-bold tracking-tight text-white transition-opacity hover:opacity-80 sm:text-2xl"
+          aria-label="Ir al inicio de Monitor Electoral"
+        >
+          Monitor Electoral
+        </Link>
 
         {subtitle && (
           <>
