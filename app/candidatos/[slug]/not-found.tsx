@@ -10,12 +10,20 @@ export default function CandidateNotFound() {
       <p className="max-w-xl text-sm text-on-surface-muted">
         No existe un perfil para esta ruta o el contenido fue retirado.
       </p>
-      <Link
-        href="/"
-        className="mt-2 inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
-      >
-        Volver al indice
-      </Link>
+      <div className="mt-2 flex flex-wrap items-center gap-3">
+        <Link
+          href="/"
+          className="inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
+        >
+          Volver al índice
+        </Link>
+        <Link
+          href="/candidatos/armando-joaquin-masse-fernandez"
+          className="inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
+        >
+          Ver un ejemplo
+        </Link>
+      </div>
     </main>
   );
 }

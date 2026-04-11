@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect } from "react";
 
 interface CandidateErrorProps {
@@ -19,15 +20,23 @@ export default function CandidateError({ error, reset }: CandidateErrorProps) {
         No pudimos cargar este perfil
       </h1>
       <p className="max-w-xl text-sm text-on-surface-muted">
-        Ocurrio un problema inesperado al cargar la informacion del candidato.
+        Ocurrió un problema inesperado al cargar la información del candidato.
       </p>
-      <button
-        type="button"
-        onClick={reset}
-        className="mt-2 inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
-      >
-        Reintentar
-      </button>
+      <div className="mt-2 flex flex-wrap items-center gap-3">
+        <button
+          type="button"
+          onClick={reset}
+          className="inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
+        >
+          Reintentar
+        </button>
+        <Link
+          href="/"
+          className="inline-flex min-h-10 items-center border border-outline px-4 text-xs font-bold uppercase tracking-[0.16em] text-on-surface-muted transition-colors hover:text-white"
+        >
+          Volver al índice
+        </Link>
+      </div>
     </main>
   );
 }
